@@ -1,0 +1,19 @@
+PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+PREFIX image:   <http://jibbering.com/vocabs/image/#>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+CONSTRUCT { ?page1 skos:broadMatch ?page2 . }
+
+WHERE {
+  {
+    ?img1  skos:closeMatch ?img2 .
+    ?img1 foaf:page ?page1 .
+    ?img2 foaf:page ?page2 .
+  } UNION {
+    ?img1  skos:exactMatch ?img2 .
+    ?img1 foaf:page ?page1 .
+    ?img2 foaf:page ?page2 .
+  }
+}
+

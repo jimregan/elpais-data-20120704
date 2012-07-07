@@ -1,0 +1,28 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://ep00.epimg.net/deportes/imagenes/2012/07/01/eurocopa_futbol/1341168959_585568_1341169169_noticia_normal.jpg">
+  <image:height>329</image:height>
+  <image:width>560</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD51d0dbf0f00926c56e087097fbd77e8e3Reg1">
+     <image:points>114,18 140,44</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD51d0dbf0f00926c56e087097fbd77e8e3Reg2">
+     <image:points>241,30 273,62</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD51d0dbf0f00926c56e087097fbd77e8e3Reg3">
+     <image:points>68,21 95,48</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

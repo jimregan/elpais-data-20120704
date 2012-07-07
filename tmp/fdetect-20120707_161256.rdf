@@ -1,0 +1,18 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://elpais.com/elpais/imagenes/2012/06/12/gente/1339522249_411933_1339525054_miniatura_normal.jpg">
+  <image:height>100</image:height>
+  <image:width>140</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD56898d9dff74ca10e2f4849b46f9c3093Reg1">
+     <image:points>47,10 81,44</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

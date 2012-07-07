@@ -1,0 +1,33 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://ep00.epimg.net/elpais/imagenes/2012/06/05/inenglish/1338898871_396646_1338899606_noticia_normal.jpg">
+  <image:height>271</image:height>
+  <image:width>560</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD56d17e985d8cae890d819bbe09a988d56Reg1">
+     <image:points>388,69 410,91</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD56d17e985d8cae890d819bbe09a988d56Reg2">
+     <image:points>145,78 173,106</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD56d17e985d8cae890d819bbe09a988d56Reg3">
+     <image:points>87,30 135,78</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD56d17e985d8cae890d819bbe09a988d56Reg4">
+     <image:points>468,151 514,197</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://ep00.epimg.net/ccaa/imagenes/2012/07/04/catalunya/1341398501_184826_1341403211_noticia_normal.jpg">
+  <image:height>373</image:height>
+  <image:width>560</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5bac342af617a66c9beadcdc7e11d7ff7Reg1">
+     <image:points>151,120 211,180</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5bac342af617a66c9beadcdc7e11d7ff7Reg2">
+     <image:points>22,1 77,56</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

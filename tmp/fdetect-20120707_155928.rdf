@@ -1,0 +1,48 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://cultura.elpais.com/cultura/imagenes/2012/07/03/album/1341307576_055556_1341309297_album_normal.jpg">
+  <image:height>1065</image:height>
+  <image:width>666</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg1">
+     <image:points>286,75 362,151</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg2">
+     <image:points>339,966 390,1017</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg3">
+     <image:points>347,982 396,1031</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg4">
+     <image:points>203,212 285,294</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg5">
+     <image:points>81,468 174,561</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg6">
+     <image:points>123,683 204,764</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c50cbf1cfc8466c3e8793d95d71311d3Reg7">
+     <image:points>78,751 316,989</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

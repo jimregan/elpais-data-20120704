@@ -1,0 +1,53 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://ep00.epimg.net/elpais/imagenes/2012/06/03/gente/1338742339_616276_1338742861_noticia_normal.jpg">
+  <image:height>379</image:height>
+  <image:width>560</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg1">
+     <image:points>49,71 77,99</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg2">
+     <image:points>164,87 195,118</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg3">
+     <image:points>209,194 236,221</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg4">
+     <image:points>340,49 366,75</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg5">
+     <image:points>307,84 334,111</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg6">
+     <image:points>477,83 506,112</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg7">
+     <image:points>348,158 382,192</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD52500642723878fee9d197fcf2422860aReg8">
+     <image:points>106,177 170,241</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

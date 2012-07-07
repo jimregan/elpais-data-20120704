@@ -1,0 +1,28 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://cultura.elpais.com/cultura/imagenes/2012/07/03/album/1341307576_055556_1341308789_album_normal.jpg">
+  <image:height>1000</image:height>
+  <image:width>666</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c6489ac8af5f35874fe4700b0b3894faReg1">
+     <image:points>289,71 366,148</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c6489ac8af5f35874fe4700b0b3894faReg2">
+     <image:points>545,298 604,357</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5c6489ac8af5f35874fe4700b0b3894faReg3">
+     <image:points>372,396 459,483</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

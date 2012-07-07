@@ -1,0 +1,128 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:image="http://jibbering.com/vocabs/image/#"
+ xmlns:an="http://www.w3.org/2000/10/annotation-ns#"
+>
+ <foaf:Image rdf:about="http://ep00.epimg.net/elpais/imagenes/2012/07/02/media/1341257372_286635_1341257384_noticia_normal.png">
+  <image:height>2050</image:height>
+  <image:width>980</image:width>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg1">
+     <image:points>859,1721 889,1751</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg2">
+     <image:points>575,1495 611,1531</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg3">
+     <image:points>390,1500 425,1535</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg4">
+     <image:points>314,1504 349,1539</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg5">
+     <image:points>238,1517 270,1549</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg6">
+     <image:points>681,1496 715,1530</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg7">
+     <image:points>487,1504 522,1539</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg8">
+     <image:points>390,1638 427,1675</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg9">
+     <image:points>606,1654 642,1690</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg10">
+     <image:points>307,1657 342,1692</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg11">
+     <image:points>268,1030 307,1069</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg12">
+     <image:points>482,1642 522,1682</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg13">
+     <image:points>674,1648 711,1685</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg14">
+     <image:points>856,1375 893,1412</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg15">
+     <image:points>65,700 110,745</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg16">
+     <image:points>173,1961 216,2004</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg17">
+     <image:points>17,1883 67,1933</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg18">
+     <image:points>847,1676 902,1731</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg19">
+     <image:points>22,783 91,852</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg20">
+     <image:points>743,148 847,252</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg21">
+     <image:points>162,579 297,714</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg22">
+     <image:points>711,551 855,695</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+   <image:hasPart>
+    <image:Rectangle rdf:ID="MD5102e1fb2520b73a8ff820e20656df8caReg23">
+     <image:points>268,225 713,670</image:points>
+    </image:Rectangle>
+   </image:hasPart>
+ </foaf:Image>
+</rdf:RDF>

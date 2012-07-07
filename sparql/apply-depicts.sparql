@@ -3,15 +3,21 @@ PREFIX image:   <http://jibbering.com/vocabs/image/#>
 PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 
-CONSTRUCT { ?img foaf:depicts ?tag . }
+CONSTRUCT { ?img1 foaf:depicts ?tag . }
 
 WHERE {
   {
-    ?img  skos:closeMatch ?img2 .
+    ?img1 skos:closeMatch ?img2 .
     ?img2 foaf:depicts ?tag .
   } UNION {
-    ?img  skos:exactMatch ?img2 .
+    ?img2 skos:closeMatch ?img1 .
+    ?img1 foaf:depicts ?tag .
+  } UNION {
+    ?img1 skos:exactMatch ?img2 .
     ?img2 foaf:depicts ?tag .
+  } UNION {
+    ?img2 skos:exactMatch ?img1 .
+    ?img1 foaf:depicts ?tag .
   }
 }
 

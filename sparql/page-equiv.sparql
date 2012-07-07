@@ -15,5 +15,6 @@ WHERE {
     ?img1 foaf:page ?page1 .
     ?img2 foaf:page ?page2 .
   }
+  FILTER(?page1 != ?page2)
 }
 

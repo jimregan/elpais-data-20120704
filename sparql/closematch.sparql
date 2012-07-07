@@ -1,0 +1,26 @@
+PREFIX foaf:    <http://xmlns.com/foaf/0.1/>
+PREFIX image:   <http://jibbering.com/vocabs/image/#>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+CONSTRUCT { ?img1 skos:closeMatch ?img3 . }
+
+WHERE {
+  {
+    ?img1 skos:closeMatch ?img2 .
+    ?img2 skos:closeMatch ?img3 .
+  } UNION {
+    ?img3 skos:closeMatch ?img2 .
+    ?img2 skos:closeMatch ?img1 .
+  } UNION {
+    ?img2 skos:closeMatch ?img1 .
+    ?img2 skos:closeMatch ?img3 .
+  } UNION {
+    ?img1 skos:closeMatch ?img2 .
+    ?img3 skos:closeMatch ?img2 .
+  } UNION {
+    ?img3 skos:closeMatch ?img1 .
+  }
+  FILTER(?img1 != ?img3)
+}
+

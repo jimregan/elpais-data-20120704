@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INF=../data/elpais_lexicalisation_frequency.txt
+INF=../data/elpais_lexicalisation_frequency-pruned.txt
 TMP=../tmp
 
 _q () {

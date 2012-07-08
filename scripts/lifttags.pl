@@ -24,8 +24,11 @@ sub dofile {
         
         return unless -f $file;
 	my $info = ImageInfo($file, "MIMEType");
+	return if(!$info);
 	return unless ($info->{'MIMEType'} eq 'text/html');
-	grabtags($file) if ($file ne '');
+	return if (!$file);
+	return if ($file eq '');
+	grabtags($file);
 }
 
 sub grabtags {
@@ -60,10 +63,10 @@ sub grabtags {
 						}
 						my $esctag = Unicode::Escape::escape(encode("UTF-8", $extag));
 						print $ttp "<$url> <http://purl.org/dc/terms/subject> <$taglink> .\n";
-						print $lex "<$taglink> <http://lexvo.org/ontology#label> \"$esctag\" .\n";
+						print $lex "<$taglink> <http://lexvo.org/ontology#label> \"$esctag\"\@es .\n";
 						if ($a->firstChild->data ne $extag) {
-							$esctag = Unicode::Escape::escape(encode("UTF-8", $$a->firstChild->data));
-							print $lex "<$taglink> <http://lexvo.org/ontology#label> \"$esctag\" .\n";
+							$esctag = Unicode::Escape::escape(encode("UTF-8", $a->firstChild->data));
+							print $lex "<$taglink> <http://lexvo.org/ontology#label> \"$esctag\"\@es .\n";
 						}
 					}
 				}

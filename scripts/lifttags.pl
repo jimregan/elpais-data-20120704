@@ -25,7 +25,7 @@ sub dofile {
         return unless -f $file;
 	my $info = ImageInfo($file, "MIMEType");
 	return unless ($info->{'MIMEType'} eq 'text/html');
-	grabtags($file);
+	grabtags($file) if ($file ne '');
 }
 
 sub grabtags {

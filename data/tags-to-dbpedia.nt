@@ -598,4 +598,7 @@
 <http://elpais.com/tag/pop/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Pop> .
 <http://elpais.com/tag/aficiones/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Hobby> .
 <http://elpais.com/tag/acoso_sexual/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Sexual_harassment> .
+<http://elpais.com/tag/alojamientos/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://es.dbpedia.org/resource/Hosteler%C3%ADa> .
+<http://elpais.com/tag/armada/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Navy> .
+<http://elpais.com/tag/autopistas/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Controlled-access_highway> .
 

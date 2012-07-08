@@ -14642,3 +14642,46 @@
 <http://politica.elpais.com/tag/justicia/a/> <http://lexvo.org/ontology#label> "Justicia"@es .
 <http://politica.elpais.com/tag/sociedad/a/> <http://lexvo.org/ontology#label> "Sociedad"@es .
 <http://sociedad.elpais.com/tag/espana/a/> <http://lexvo.org/ontology#label> "Espa\u00f1a"@es .
+<http://deportes.elpais.com/tag/eurocopa_2012/a/> <http://lexvo.org/ontology#label> "Eurocopa 2012"@es .
+<http://deportes.elpais.com/tag/seleccion_futbol_espana/a/> <http://lexvo.org/ontology#label> "Selecci\u00f3n F\u00fatbol Espa\u00f1a"@es .
+<http://deportes.elpais.com/tag/mariano_rajoy/a/> <http://lexvo.org/ontology#label> "Mariano Rajoy"@es .
+<http://deportes.elpais.com/tag/jose_manuel_garcia_margallo/a/> <http://lexvo.org/ontology#label> "Jos\u00e9 Manuel Garc\u00eda Margallo"@es .
+<http://deportes.elpais.com/tag/declaraciones_prensa/a/> <http://lexvo.org/ontology#label> "Declaraciones prensa"@es .
+<http://deportes.elpais.com/tag/yulia_timoshenko/a/> <http://lexvo.org/ontology#label> "Yulia Timoshenko"@es .
+<http://deportes.elpais.com/tag/eurocopa/a/> <http://lexvo.org/ontology#label> "Eurocopa"@es .
+<http://deportes.elpais.com/tag/seleccion_espanola/a/> <http://lexvo.org/ontology#label> "Selecci\u00f3n espa\u00f1ola"@es .
+<http://deportes.elpais.com/tag/derechos_humanos/a/> <http://lexvo.org/ontology#label> "Derechos humanos"@es .
+<http://deportes.elpais.com/tag/ucrania/a/> <http://lexvo.org/ontology#label> "Ucrania"@es .
+<http://deportes.elpais.com/tag/futbol/a/> <http://lexvo.org/ontology#label> "F\u00fatbol"@es .
+<http://deportes.elpais.com/tag/selecciones_deportivas/a/> <http://lexvo.org/ontology#label> "Selecciones deportivas"@es .
+<http://deportes.elpais.com/tag/europa_este/a/> <http://lexvo.org/ontology#label> "Europa este"@es .
+<http://deportes.elpais.com/tag/madrid/a/> <http://lexvo.org/ontology#label> "Madrid"@es .
+<http://deportes.elpais.com/tag/comunidad_madrid/a/> <http://lexvo.org/ontology#label> "Comunidad de Madrid"@es .
+<http://deportes.elpais.com/tag/competiciones/a/> <http://lexvo.org/ontology#label> "Competiciones"@es .
+<http://deportes.elpais.com/tag/espana/a/> <http://lexvo.org/ontology#label> "Espa\u00f1a"@es .
+<http://deportes.elpais.com/tag/deportes/a/> <http://lexvo.org/ontology#label> "Deportes"@es .
+<http://deportes.elpais.com/tag/europa/a/> <http://lexvo.org/ontology#label> "Europa"@es .
+<http://deportes.elpais.com/tag/sociedad/a/> <http://lexvo.org/ontology#label> "Sociedad"@es .
+<http://internacional.elpais.com/tag/crisis_deuda_europea/a/> <http://lexvo.org/ontology#label> "Crisis deuda europea"@es .
+<http://internacional.elpais.com/tag/mario_monti/a/> <http://lexvo.org/ontology#label> "Mario Monti"@es .
+<http://internacional.elpais.com/tag/angela_merkel/a/> <http://lexvo.org/ontology#label> "Angela Merkel"@es .
+<http://internacional.elpais.com/tag/francois_hollande/a/> <http://lexvo.org/ontology#label> "Fran\u00e7ois Hollande"@es .
+<http://internacional.elpais.com/tag/mariano_rajoy/a/> <http://lexvo.org/ontology#label> "Mariano Rajoy"@es .
+<http://internacional.elpais.com/tag/roma/a/> <http://lexvo.org/ontology#label> "Roma"@es .
+<http://internacional.elpais.com/tag/italia/a/> <http://lexvo.org/ontology#label> "Italia"@es .
+<http://internacional.elpais.com/tag/francia/a/> <http://lexvo.org/ontology#label> "Francia"@es .
+<http://internacional.elpais.com/tag/zona_euro/a/> <http://lexvo.org/ontology#label> "Zona euro"@es .
+<http://internacional.elpais.com/tag/politica_economica/a/> <http://lexvo.org/ontology#label> "Pol\u00edtica econ\u00f3mica"@es .
+<http://internacional.elpais.com/tag/ue_union_europea/a/> <http://lexvo.org/ontology#label> "UE"@es .
+<http://internacional.elpais.com/tag/crisis_financiera/a/> <http://lexvo.org/ontology#label> "Crisis financiera"@es .
+<http://internacional.elpais.com/tag/alemania/a/> <http://lexvo.org/ontology#label> "Alemania"@es .
+<http://internacional.elpais.com/tag/cumbres_internacionales/a/> <http://lexvo.org/ontology#label> "Cumbres internacionales"@es .
+<http://internacional.elpais.com/tag/europa_occidental/a/> <http://lexvo.org/ontology#label> "Europa occidental"@es .
+<http://internacional.elpais.com/tag/relaciones_internacionales/a/> <http://lexvo.org/ontology#label> "Relaciones internacionales"@es .
+<http://internacional.elpais.com/tag/organizaciones_internacionales/a/> <http://lexvo.org/ontology#label> "Organizaciones internacionales"@es .
+<http://internacional.elpais.com/tag/economia_europea/a/> <http://lexvo.org/ontology#label> "Econom\u00eda europea"@es .
+<http://internacional.elpais.com/tag/espana/a/> <http://lexvo.org/ontology#label> "Espa\u00f1a"@es .
+<http://internacional.elpais.com/tag/europa/a/> <http://lexvo.org/ontology#label> "Europa"@es .
+<http://internacional.elpais.com/tag/relaciones_exteriores/a/> <http://lexvo.org/ontology#label> "Relaciones exteriores"@es .
+<http://internacional.elpais.com/tag/finanzas/a/> <http://lexvo.org/ontology#label> "Finanzas"@es .
+<http://internacional.elpais.com/tag/economia/a/> <http://lexvo.org/ontology#label> "Econom\u00eda"@es .

@@ -4,7 +4,7 @@ INF=../data/elpais_lexicalisation_frequency.txt
 TMP=../tmp
 
 _q () {
-	i=$1
+	i=$(echo $1|sed -e 's/ /_/g')
 	head='<h1 id="firstHeading" class="firstHeading">'
 	raw=$(wget -O - -q http://en.wikipedia.org/wiki/$i|grep "$head"|awk -F'[<>]' '{print $5}')
 	if [ "$raw" = "Main Page" ]
@@ -37,12 +37,13 @@ _tr () {
 cat $INF|awk '{print $2}'|while read raw
 do
 	i=$(_fix $raw|awk 'BEGIN{FS="/"}{print $5;}')
-	tr=$(_q $(_tr $i))
+	trq=$(_tr "$i")
+	tr=$(_q "$trq")
 	if [ x"$tr" != x"" ]
 	then
 		_out $raw $tr  >> $TMP/tr.txt
 	else
-		untr=$(_q $i)
+		untr=$(_q "$i")
 		if [ x"$untr" != x"" ]
 		then
 			_out $raw $untr  >> $TMP/untr.txt

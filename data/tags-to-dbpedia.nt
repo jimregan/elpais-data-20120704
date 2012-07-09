@@ -1006,3 +1006,15 @@
 <http://elpais.com/tag/andres_gimeno/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://es.dbpedia.org/resource/Andr%C3%A9s_Gimeno> .
 <http://elpais.com/tag/antonio_maria_rouco_varela/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Antonio_Mar%C3%ADa_Rouco_Varela> .
 <http://elpais.com/tag/antonio_gonzalez_vigil/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://es.dbpedia.org/resource/Antonio_Gonz%C3%A1lez-Vigil> .
+<http://elpais.com/tag/toros/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Bulls> .
+<http://elpais.com/tag/torres/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Tower> .
+<http://elpais.com/tag/traducciones/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Translations> .
+<http://elpais.com/tag/transporte/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Transport> .
+<http://elpais.com/tag/sistema_electoral/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Voting_system> .
+<http://elpais.com/tag/sistema_solar/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Solar_System> .
+<http://elpais.com/tag/terremotos/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Earthquake> .
+<http://elpais.com/tag/terrorismo_internacional/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Terrorism> .
+<http://elpais.com/tag/terroristas/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Terrorism> .
+<http://elpais.com/tag/tiempo_libre/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Leisure> .
+<http://elpais.com/tag/rock/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Rock_and_roll> .
+

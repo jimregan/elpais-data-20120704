@@ -199,3 +199,5 @@
 <http://imgmeta.sourceforge.net/0.1/detected/fdetect-20120707_162532.rdf#MD5f8533ea358ca5a3bd0c67b242efffc4dReg2> <http://xmlns.com/foaf/0.1/depicts> <http://dbpedia.org/resource/Gwyneth_Paltrow> .
 <http://www.volksstimme.de/_em_daten/_dpa/2012/07/04/wide/120704_0839_jpeg_1481c800a3209472_20120704_imgd_37311608.original.large_4_3_800_0_750_1576_1930_wide.jpg> <http://xmlns.com/foaf/0.1/depicts> <http://dbpedia.org/resource/Yasser_Arafat> .
 <http://ep00.epimg.net/deportes/imagenes/2012/07/03/actualidad/1341309413_184587_1341309716_noticia_normal.jpg> <http://xmlns.com/foaf/0.1/depicts> <http://dbpedia.org/resource/Mar%C3%ADa_de_Villota> .
+<http://ep01.epimg.net/elpais/imagenes/2012/06/26/inenglish/1340721697_488438_1340721933_noticia_normal.jpg> <http://xmlns.com/foaf/0.1/depicts> <http://dbpedia.org/resource/Mariano_Rajoy> .
+<http://ep01.epimg.net/deportes/imagenes/2012/06/25/eurocopa_futbol/1340655020_497560_1340655285_noticia_normal.jpg> <http://xmlns.com/foaf/0.1/depicts> <http://dbpedia.org/resource/Mariano_Rajoy> .

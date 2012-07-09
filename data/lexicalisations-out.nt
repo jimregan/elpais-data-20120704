@@ -255,7 +255,7 @@
 <http://dbpedia.org/resource/Bob_Bryan> <http://lexvo.org/ontology#label> "Bob Bryan"@es .
 <http://dbpedia.org/resource/Brad_Pitt> <http://lexvo.org/ontology#label> "Brad Pitt"@es .
 <http://dbpedia.org/resource/Caixabank> <http://lexvo.org/ontology#label> "Caixabank"@es .
-<http://es.dbpedia.org/resource/Casa_Asia> <http://lexvo.org/ontology#label> "Casa Asia "@es .
+<http://es.dbpedia.org/resource/Casa_Asia> <http://lexvo.org/ontology#label> "Casa Asia"@es .
 <http://dbpedia.org/resource/Christie%27s> <http://lexvo.org/ontology#label> "Christie's"@es .
 <http://dbpedia.org/resource/Coca-Cola> <http://lexvo.org/ontology#label> "Coca-Cola"@es .
 <http://dbpedia.org/resource/Synod> <http://lexvo.org/ontology#label> "Concilios"@es .
@@ -1035,7 +1035,7 @@
 <http://dbpedia.org/resource/Galician_Nationalist_Bloc> <http://lexvo.org/ontology#label> "BNG"@es .
 <http://dbpedia.org/resource/Cristina_Fern%C3%A1ndez_de_Kirchner> <http://lexvo.org/ontology#label> "Cristina Fern\u00E1ndez de Kirchner"@es .
 <http://dbpedia.org/resource/International_organization> <http://lexvo.org/ontology#label> "Organizaciones internacionales"@es .
-<http://dbpedia.org/resource/Uni%C3%B3n_General_de_Trabajadores> <http://lexvo.org/ontology#label> "UGT "@es .
+<http://dbpedia.org/resource/Uni%C3%B3n_General_de_Trabajadores> <http://lexvo.org/ontology#label> "UGT"@es .
 <http://dbpedia.org/resource/Council_of_the_European_Union> <http://lexvo.org/ontology#label> "Consejo UE"@es .
 <http://es.dbpedia.org/resource/Consejo_de_la_Uni%C3%B3n_Europea> <http://lexvo.org/ontology#label> "Consejo UE"@es .
 <http://dbpedia.org/resource/Baron_Hans_Heinrich_Thyssen-Bornemisza> <http://lexvo.org/ontology#label> "Heinrich von Thyssen-Bornemisza"@es .
@@ -1076,8 +1076,8 @@
 <http://dbpedia.org/resource/Aena> <http://lexvo.org/ontology#label> "AENA"@es .
 <http://dbpedia.org/resource/Fondo_de_Reestructuraci%C3%B3n_Ordenada_Bancaria> <http://lexvo.org/ontology#label> "FROB"@es .
 <http://es.dbpedia.org/resource/Agencia_Tributaria> <http://lexvo.org/ontology#label> "Agencia Tributaria"@es .
-<http://dbpedia.org/resource/Workers'_Commissions> <http://lexvo.org/ontology#label> "CC OO "@es .
-<http://es.dbpedia.org/resource/Comisiones_Obreras> <http://lexvo.org/ontology#label> "CC OO "@es .
+<http://dbpedia.org/resource/Workers'_Commissions> <http://lexvo.org/ontology#label> "CC OO"@es .
+<http://es.dbpedia.org/resource/Comisiones_Obreras> <http://lexvo.org/ontology#label> "CC OO"@es .
 <http://dbpedia.org/resource/CERN> <http://lexvo.org/ontology#label> "CERN"@es .
 <http://dbpedia.org/resource/NASA> <http://lexvo.org/ontology#label> "NASA"@es .
 <http://dbpedia.org/resource/Spanish_National_Research_Council> <http://lexvo.org/ontology#label> "CSIC"@es .

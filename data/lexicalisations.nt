@@ -409,7 +409,7 @@
 <http://elpais.com/tag/carreteras/a/> <http://lexvo.org/ontology#label> "Carreteras"@es .
 <http://elpais.com/tag/carreteras_nacionales/a/> <http://lexvo.org/ontology#label> "Carreteras nacionales"@es .
 <http://elpais.com/tag/carreteras_provinciales/a/> <http://lexvo.org/ontology#label> "Carreteras provinciales"@es .
-<http://elpais.com/tag/casa_asia/a/> <http://lexvo.org/ontology#label> "Casa Asia "@es .
+<http://elpais.com/tag/casa_asia/a/> <http://lexvo.org/ontology#label> "Casa Asia"@es .
 <http://elpais.com/tag/casa_real/a/> <http://lexvo.org/ontology#label> "Casa Real"@es .
 <http://elpais.com/tag/casinos/a/> <http://lexvo.org/ontology#label> "Casinos"@es .
 <http://elpais.com/tag/caso_banesto/a/> <http://lexvo.org/ontology#label> "Caso Banesto"@es .
@@ -435,7 +435,7 @@
 <http://elpais.com/tag/catedrales/a/> <http://lexvo.org/ontology#label> "Catedrales"@es .
 <http://elpais.com/tag/caza/a/> <http://lexvo.org/ontology#label> "Caza"@es .
 <http://elpais.com/tag/caza_mayor/a/> <http://lexvo.org/ontology#label> "Caza mayor"@es .
-<http://elpais.com/tag/cc_oo_confederacion_sindical_comisiones_obreras/a/> <http://lexvo.org/ontology#label> "CC OO "@es .
+<http://elpais.com/tag/cc_oo_confederacion_sindical_comisiones_obreras/a/> <http://lexvo.org/ontology#label> "CC OO"@es .
 <http://elpais.com/tag/cccb_centro_cultura_contemporanea_barcelona/a/> <http://lexvo.org/ontology#label> "CCCB"@es .
 <http://elpais.com/tag/cdu_union_democratica_cristiana_alemania/a/> <http://lexvo.org/ontology#label> "CDU"@es .
 <http://elpais.com/tag/cecilia_ciganer_albeniz/a/> <http://lexvo.org/ontology#label> "Cecilia Ciganer Alb\u00E9niz"@es .
@@ -1597,7 +1597,7 @@
 <http://elpais.com/tag/novak_djokovic/a/> <http://lexvo.org/ontology#label> "Novak Djokovic"@es .
 <http://elpais.com/tag/noviazgo/a/> <http://lexvo.org/ontology#label> "Noviazgo"@es .
 <http://elpais.com/tag/nueva_york/a/> <http://lexvo.org/ontology#label> "Nueva York"@es .
-<http://elpais.com/tag/nueva_york/a/> <http://lexvo.org/ontology#label> "Nueva York "@es .
+<http://elpais.com/tag/nueva_york/a/> <http://lexvo.org/ontology#label> "Nueva York"@es .
 <http://elpais.com/tag/nuevas_tecnologias/a/> <http://lexvo.org/ontology#label> "Nuevas tecnolog\u00EDas"@es .
 <http://elpais.com/tag/nuova_automobili_f_lamborghini/a/> <http://lexvo.org/ontology#label> "Nuova Automobili F. Lamborghini"@es .
 <http://elpais.com/tag/nuria_de_gispert_catala/a/> <http://lexvo.org/ontology#label> "N\u00FAria de Gispert Catal\u00E0"@es .
@@ -2187,7 +2187,7 @@
 <http://elpais.com/tag/udf_union_democracia_francesa/a/> <http://lexvo.org/ontology#label> "UDF"@es .
 <http://elpais.com/tag/ue_union_europea/a/> <http://lexvo.org/ontology#label> "UE"@es .
 <http://elpais.com/tag/uem_union_economica_europea/a/> <http://lexvo.org/ontology#label> "UEM"@es .
-<http://elpais.com/tag/ugt_union_general_trabajadores/a/> <http://lexvo.org/ontology#label> "UGT "@es .
+<http://elpais.com/tag/ugt_union_general_trabajadores/a/> <http://lexvo.org/ontology#label> "UGT"@es .
 <http://elpais.com/tag/ulster/a/> <http://lexvo.org/ontology#label> "Ulster"@es .
 <http://elpais.com/tag/ultraderecha/a/> <http://lexvo.org/ontology#label> "Ultraderecha"@es .
 <http://elpais.com/tag/uma_thurman/a/> <http://lexvo.org/ontology#label> "Uma Thurman"@es .

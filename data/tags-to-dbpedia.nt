@@ -759,3 +759,6 @@
 <http://elpais.com/tag/leonardo_dicaprio/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Leonardo_DiCaprio> .
 <http://elpais.com/tag/los_simpson/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/The_Simpsons> .
 <http://elpais.com/tag/los_soprano/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/The_Sopranos> .
+<http://elpais.com/tag/accidentes_trafico/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Traffic_collision> .
+<http://elpais.com/tag/africa_occidental/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/West_Africa> .
+<http://elpais.com/tag/africa_subsahariana/a/> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Sub-Saharan_Africa> .

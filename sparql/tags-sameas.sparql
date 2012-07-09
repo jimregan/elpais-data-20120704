@@ -1,0 +1,10 @@
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+
+CONSTRUCT { ?page foaf:primaryTopic ?dbp . }
+
+WHERE {
+    ?page1 foaf:primaryTopic ?dbp .
+    ?page owl:sameAs ?page1 .
+}
+

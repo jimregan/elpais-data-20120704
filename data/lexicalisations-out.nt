@@ -1,0 +1,1086 @@
+<http://dbpedia.org/resource/DNA> <http://lexvo.org/ontology#label> "ADN"@es .
+<http://dbpedia.org/resource/Allied_Irish_Banks> <http://lexvo.org/ontology#label> "AIB"@es .
+<http://dbpedia.org/resource/BMW> <http://lexvo.org/ontology#label> "BMW"@es .
+<http://dbpedia.org/resource/Chlorofluorocarbon> <http://lexvo.org/ontology#label> "CFC"@es .
+<http://dbpedia.org/resource/ETA> <http://lexvo.org/ontology#label> "ETA"@es .
+<http://dbpedia.org/resource/Gross_domestic_product> <http://lexvo.org/ontology#label> "PIB"@es .
+<http://dbpedia.org/resource/Pop> <http://lexvo.org/ontology#label> "Pop"@es .
+<http://dbpedia.org/resource/Art> <http://lexvo.org/ontology#label> "Arte"@es .
+<http://dbpedia.org/resource/Asia> <http://lexvo.org/ontology#label> "Asia"@es .
+<http://dbpedia.org/resource/Audi> <http://lexvo.org/ontology#label> "Audi"@es .
+<http://dbpedia.org/resource/Banco_Bilbao_Vizcaya_Argentaria> <http://lexvo.org/ontology#label> "BBVA"@es .
+<http://dbpedia.org/resource/Cher> <http://lexvo.org/ontology#label> "Cher"@es .
+<http://dbpedia.org/resource/Cinema> <http://lexvo.org/ontology#label> "Cine"@es .
+<http://dbpedia.org/resource/Euro> <http://lexvo.org/ontology#label> "Euro"@es .
+<http://dbpedia.org/resource/Fiat> <http://lexvo.org/ontology#label> "Fiat"@es .
+<http://dbpedia.org/resource/HSBC> <http://lexvo.org/ontology#label> "HSBC"@es .
+<http://dbpedia.org/resource/Ja%C3%A9n,_Spain> <http://lexvo.org/ontology#label> "Ja\u00E9n"@es .
+<http://dbpedia.org/resource/Jazz> <http://lexvo.org/ontology#label> "Jazz"@es .
+<http://dbpedia.org/resource/Lugo> <http://lexvo.org/ontology#label> "Lugo"@es .
+<http://es.dbpedia.org/resource/Lugo> <http://lexvo.org/ontology#label> "Lugo"@es .
+<http://dbpedia.org/resource/Mali> <http://lexvo.org/ontology#label> "Mali"@es .
+<http://dbpedia.org/resource/Mini> <http://lexvo.org/ontology#label> "Mini"@es .
+<http://dbpedia.org/resource/Fashion> <http://lexvo.org/ontology#label> "Moda"@es .
+<http://dbpedia.org/resource/Leisure> <http://lexvo.org/ontology#label> "Ocio"@es .
+<http://dbpedia.org/resource/Ohio> <http://lexvo.org/ontology#label> "Ohio"@es .
+<http://dbpedia.org/resource/Peru> <http://lexvo.org/ontology#label> "Per\u00FA"@es .
+<http://dbpedia.org/resource/Rock_and_roll> <http://lexvo.org/ontology#label> "Rock"@es .
+<http://dbpedia.org/resource/SEAT> <http://lexvo.org/ontology#label> "Seat"@es .
+<http://dbpedia.org/resource/Surf> <http://lexvo.org/ontology#label> "Surf"@es .
+<http://dbpedia.org/resource/Wine> <http://lexvo.org/ontology#label> "Vino"@es .
+<http://dbpedia.org/resource/Xavi> <http://lexvo.org/ontology#label> "Xavi"@es .
+<http://dbpedia.org/resource/Yoga> <http://lexvo.org/ontology#label> "Yoga"@es .
+<http://dbpedia.org/resource/Bank> <http://lexvo.org/ontology#label> "Banca"@es .
+<http://dbpedia.org/resource/Infant> <http://lexvo.org/ontology#label> "Beb\u00E9s"@es .
+<http://es.dbpedia.org/resource/Beb%C3%A9> <http://lexvo.org/ontology#label> "Beb\u00E9s"@es .
+<http://dbpedia.org/resource/Blog> <http://lexvo.org/ontology#label> "Blogs"@es .
+<http://dbpedia.org/resource/Stock_exchange> <http://lexvo.org/ontology#label> "Bolsa"@es .
+<http://dbpedia.org/resource/China> <http://lexvo.org/ontology#label> "China"@es .
+<http://dbpedia.org/resource/Korea> <http://lexvo.org/ontology#label> "Corea"@es .
+<http://dbpedia.org/resource/Person> <http://lexvo.org/ontology#label> "Gente"@es .
+<http://dbpedia.org/resource/Islam> <http://lexvo.org/ontology#label> "Islam"@es .
+<http://dbpedia.org/resource/Island> <http://lexvo.org/ontology#label> "Islas"@es .
+<http://dbpedia.org/resource/Japan> <http://lexvo.org/ontology#label> "Jap\u00F3n"@es .
+<http://dbpedia.org/resource/Milk> <http://lexvo.org/ontology#label> "Leche"@es .
+<http://dbpedia.org/resource/Mazda> <http://lexvo.org/ontology#label> "Mazda"@es .
+<http://dbpedia.org/resource/Opera> <http://lexvo.org/ontology#label> "Opera"@es .
+<http://dbpedia.org/resource/Paris> <http://lexvo.org/ontology#label> "Par\u00EDs"@es .
+<http://dbpedia.org/resource/Prada> <http://lexvo.org/ontology#label> "Prada"@es .
+<http://dbpedia.org/resource/Rover> <http://lexvo.org/ontology#label> "Rover"@es .
+<http://dbpedia.org/resource/Russia> <http://lexvo.org/ontology#label> "Rusia"@es .
+<http://dbpedia.org/resource/Health> <http://lexvo.org/ontology#label> "Salud"@es .
+<http://dbpedia.org/resource/Samos,_Galicia> <http://lexvo.org/ontology#label> "Samos"@es .
+<http://dbpedia.org/resource/Syria> <http://lexvo.org/ontology#label> "Siria"@es .
+<http://dbpedia.org/resource/%C5%A0koda_Auto> <http://lexvo.org/ontology#label> "Skoda"@es .
+<http://dbpedia.org/resource/Sortu> <http://lexvo.org/ontology#label> "Sortu"@es .
+<http://dbpedia.org/resource/Switzerland> <http://lexvo.org/ontology#label> "Suiza"@es .
+<http://dbpedia.org/resource/Tennis> <http://lexvo.org/ontology#label> "Tenis"@es .
+<http://dbpedia.org/resource/Bulls> <http://lexvo.org/ontology#label> "Toros"@es .
+<http://dbpedia.org/resource/Tur%C3%ADs> <http://lexvo.org/ontology#label> "Tur\u00EDs"@es .
+<http://dbpedia.org/resource/Yahoo!> <http://lexvo.org/ontology#label> "Yahoo"@es .
+<http://dbpedia.org/resource/Africa> <http://lexvo.org/ontology#label> "\u00C1frica"@es .
+<http://dbpedia.org/resource/Aragon> <http://lexvo.org/ontology#label> "Arag\u00F3n"@es .
+<http://dbpedia.org/resource/Aralar_Party> <http://lexvo.org/ontology#label> "Aralar"@es .
+<http://dbpedia.org/resource/Navy> <http://lexvo.org/ontology#label> "Armada"@es .
+<http://dbpedia.org/resource/Bankia> <http://lexvo.org/ontology#label> "Bankia"@es .
+<http://dbpedia.org/resource/Brazil> <http://lexvo.org/ontology#label> "Brasil"@es .
+<http://dbpedia.org/resource/Brunei> <http://lexvo.org/ontology#label> "Brunei"@es .
+<http://dbpedia.org/resource/Cancer> <http://lexvo.org/ontology#label> "C\u00E1ncer"@es .
+<http://dbpedia.org/resource/Chanel> <http://lexvo.org/ontology#label> "Chanel"@es .
+<http://dbpedia.org/resource/Cyprus> <http://lexvo.org/ontology#label> "Chipre"@es .
+<http://es.dbpedia.org/resource/Chipre> <http://lexvo.org/ontology#label> "Chipre"@es .
+<http://dbpedia.org/resource/Automobile> <http://lexvo.org/ontology#label> "Coches"@es .
+<http://es.dbpedia.org/resource/Autom%C3%B3vil> <http://lexvo.org/ontology#label> "Coches"@es .
+<http://dbpedia.org/resource/Doping> <http://lexvo.org/ontology#label> "Dopaje"@es .
+<http://dbpedia.org/resource/Egypt> <http://lexvo.org/ontology#label> "Egipto"@es .
+<http://dbpedia.org/resource/Employment> <http://lexvo.org/ontology#label> "Empleo"@es .
+<http://dbpedia.org/resource/Spain> <http://lexvo.org/ontology#label> "Espa\u00F1a"@es .
+<http://dbpedia.org/resource/Europe> <http://lexvo.org/ontology#label> "Europa"@es .
+<http://dbpedia.org/resource/Exile> <http://lexvo.org/ontology#label> "Exilio"@es .
+<http://dbpedia.org/resource/Physics> <http://lexvo.org/ontology#label> "F\u00EDsica"@es .
+<http://dbpedia.org/resource/Association_football> <http://lexvo.org/ontology#label> "F\u00FAtbol"@es .
+<http://dbpedia.org/resource/Genome> <http://lexvo.org/ontology#label> "Genoma"@es .
+<http://dbpedia.org/resource/Girona> <http://lexvo.org/ontology#label> "Girona"@es .
+<http://dbpedia.org/resource/Google> <http://lexvo.org/ontology#label> "Google"@es .
+<http://dbpedia.org/resource/Greece> <http://lexvo.org/ontology#label> "Grecia"@es .
+<http://dbpedia.org/resource/War> <http://lexvo.org/ontology#label> "Guerra"@es .
+<http://dbpedia.org/resource/Hebron> <http://lexvo.org/ontology#label> "Hebr\u00F3n"@es .
+<http://dbpedia.org/resource/Israel> <http://lexvo.org/ontology#label> "Israel"@es .
+<http://dbpedia.org/resource/Italy> <http://lexvo.org/ontology#label> "Italia"@es .
+<http://dbpedia.org/resource/Language> <http://lexvo.org/ontology#label> "Lengua"@es .
+<http://dbpedia.org/resource/Book> <http://lexvo.org/ontology#label> "Libros"@es .
+<http://dbpedia.org/resource/L%27Or%C3%A9al> <http://lexvo.org/ontology#label> "L'oreal"@es .
+<http://dbpedia.org/resource/Macaco_%28band%29> <http://lexvo.org/ontology#label> "Macaco"@es .
+<http://dbpedia.org/resource/Mother> <http://lexvo.org/ontology#label> "Madres"@es .
+<http://dbpedia.org/resource/Madrid> <http://lexvo.org/ontology#label> "Madrid"@es .
+<http://dbpedia.org/resource/Maghreb> <http://lexvo.org/ontology#label> "Magreb"@es .
+<http://dbpedia.org/resource/M%C3%A1laga> <http://lexvo.org/ontology#label> "M\u00E1laga"@es .
+<http://dbpedia.org/resource/Monaco> <http://lexvo.org/ontology#label> "M\u00F3naco"@es .
+<http://dbpedia.org/resource/Murcia> <http://lexvo.org/ontology#label> "Murcia"@es .
+<http://dbpedia.org/resource/Museum> <http://lexvo.org/ontology#label> "Museos"@es .
+<http://dbpedia.org/resource/Music> <http://lexvo.org/ontology#label> "M\u00FAsica"@es .
+<http://dbpedia.org/resource/NASDAQ> <http://lexvo.org/ontology#label> "NASDAQ"@es .
+<http://dbpedia.org/resource/Nissan_Motor_Company> <http://lexvo.org/ontology#label> "Nissan"@es .
+<http://dbpedia.org/resource/Press> <http://lexvo.org/ontology#label> "Prensa"@es .
+<http://dbpedia.org/resource/Sweden> <http://lexvo.org/ontology#label> "Suecia"@es .
+<http://dbpedia.org/resource/Coalition_of_the_Radical_Left> <http://lexvo.org/ontology#label> "Syriza"@es .
+<http://dbpedia.org/resource/Theatre> <http://lexvo.org/ontology#label> "Teatro"@es .
+<http://dbpedia.org/resource/Tele_5> <http://lexvo.org/ontology#label> "Telecinco"@es .
+<http://dbpedia.org/resource/Tower> <http://lexvo.org/ontology#label> "Torres"@es .
+<http://dbpedia.org/resource/Toyota> <http://lexvo.org/ontology#label> "Toyota"@es .
+<http://dbpedia.org/resource/Ulster> <http://lexvo.org/ontology#label> "Ulster"@es .
+<http://dbpedia.org/resource/Zamora,_Spain> <http://lexvo.org/ontology#label> "Zamora"@es .
+<http://es.dbpedia.org/resource/Zamora> <http://lexvo.org/ontology#label> "Zamora"@es .
+<http://dbpedia.org/resource/Actor> <http://lexvo.org/ontology#label> "Actores"@es .
+<http://dbpedia.org/resource/Al_Gore> <http://lexvo.org/ontology#label> "Al Gore"@es .
+<http://dbpedia.org/resource/America> <http://lexvo.org/ontology#label> "Am\u00E9rica"@es .
+<http://dbpedia.org/resource/Android_%28operating_system%29> <http://lexvo.org/ontology#label> "Android"@es .
+<http://dbpedia.org/resource/Tree> <http://lexvo.org/ontology#label> "Arboles"@es .
+<http://dbpedia.org/resource/Athlete> <http://lexvo.org/ontology#label> "Atletas"@es .
+<http://dbpedia.org/resource/Austria> <http://lexvo.org/ontology#label> "Austria"@es .
+<http://dbpedia.org/resource/Beyonc%C3%A9_Knowles> <http://lexvo.org/ontology#label> "Beyonce"@es .
+<http://dbpedia.org/resource/Bolivia> <http://lexvo.org/ontology#label> "Bolivia"@es .
+<http://dbpedia.org/resource/CajaSur> <http://lexvo.org/ontology#label> "Cajasur"@es .
+<http://dbpedia.org/resource/Censorship> <http://lexvo.org/ontology#label> "Censura"@es .
+<http://dbpedia.org/resource/Chicago> <http://lexvo.org/ontology#label> "Chicago"@es .
+<http://dbpedia.org/resource/Science> <http://lexvo.org/ontology#label> "Ciencia"@es .
+<http://dbpedia.org/resource/Surgery> <http://lexvo.org/ontology#label> "Cirug\u00EDa"@es .
+<http://es.dbpedia.org/resource/Cirug%C3%ADa> <http://lexvo.org/ontology#label> "Cirug\u00EDa"@es .
+<http://dbpedia.org/resource/Citro%C3%ABn> <http://lexvo.org/ontology#label> "Citroen"@es .
+<http://dbpedia.org/resource/Citro%C3%ABn> <http://lexvo.org/ontology#label> "Citro\u00EBn"@es .
+<http://dbpedia.org/resource/Consumption_%28economics%29> <http://lexvo.org/ontology#label> "Consumo"@es .
+<http://es.dbpedia.org/resource/Consumo> <http://lexvo.org/ontology#label> "Consumo"@es .
+<http://dbpedia.org/resource/Culture> <http://lexvo.org/ontology#label> "Cultura"@es .
+<http://dbpedia.org/resource/Defense> <http://lexvo.org/ontology#label> "Defensa"@es .
+<http://dbpedia.org/resource/Crime> <http://lexvo.org/ontology#label> "Delitos"@es .
+<http://dbpedia.org/resource/Team> <http://lexvo.org/ontology#label> "Equipos"@es .
+<http://dbpedia.org/resource/Euribor> <http://lexvo.org/ontology#label> "Euribor"@es .
+<http://dbpedia.org/resource/Family> <http://lexvo.org/ontology#label> "Familia"@es .
+<http://dbpedia.org/resource/Ferrari> <http://lexvo.org/ontology#label> "Ferrari"@es .
+<http://dbpedia.org/resource/Florida> <http://lexvo.org/ontology#label> "Florida"@es .
+<http://dbpedia.org/resource/France> <http://lexvo.org/ontology#label> "Francia"@es .
+<http://dbpedia.org/resource/Frasier> <http://lexvo.org/ontology#label> "Frasier"@es .
+<http://dbpedia.org/resource/Fraud> <http://lexvo.org/ontology#label> "Fraudes"@es .
+<http://dbpedia.org/resource/Friends> <http://lexvo.org/ontology#label> "Friends"@es .
+<http://dbpedia.org/resource/Galicia_%28Spain%29> <http://lexvo.org/ontology#label> "Galicia"@es .
+<http://dbpedia.org/resource/Winner> <http://lexvo.org/ontology#label> "Ganador"@es .
+<http://dbpedia.org/resource/Geneva> <http://lexvo.org/ontology#label> "Ginebra"@es .
+<http://dbpedia.org/resource/Hotel> <http://lexvo.org/ontology#label> "Hoteles"@es .
+<http://dbpedia.org/resource/Strike_action> <http://lexvo.org/ontology#label> "Huelgas"@es .
+<http://dbpedia.org/resource/Hyundai> <http://lexvo.org/ontology#label> "Hyundai"@es .
+<http://dbpedia.org/resource/IBEX_35> <http://lexvo.org/ontology#label> "IBEX 35"@es .
+<http://dbpedia.org/resource/Ireland> <http://lexvo.org/ontology#label> "Irlanda"@es .
+<http://dbpedia.org/resource/Reading> <http://lexvo.org/ontology#label> "Lectura"@es .
+<http://dbpedia.org/resource/Londres> <http://lexvo.org/ontology#label> "Londres"@es .
+<http://dbpedia.org/resource/Lottery> <http://lexvo.org/ontology#label> "Loter\u00EDa"@es .
+<http://dbpedia.org/resource/Mad_Men> <http://lexvo.org/ontology#label> "Mad Men"@es .
+<http://dbpedia.org/resource/Madonna_%28entertainer%29> <http://lexvo.org/ontology#label> "Madonna"@es .
+<http://dbpedia.org/resource/Death> <http://lexvo.org/ontology#label> "Muertes"@es .
+<http://dbpedia.org/resource/Burma> <http://lexvo.org/ontology#label> "Myanmar"@es .
+<http://dbpedia.org/resource/Nazism> <http://lexvo.org/ontology#label> "Nazismo"@es .
+<http://dbpedia.org/resource/Editorial> <http://lexvo.org/ontology#label> "Opini\u00F3n"@es .
+<http://dbpedia.org/resource/Peugeot> <http://lexvo.org/ontology#label> "Peugeot"@es .
+<http://dbpedia.org/resource/Painting> <http://lexvo.org/ontology#label> "Pintura"@es .
+<http://dbpedia.org/resource/Police> <http://lexvo.org/ontology#label> "Polic\u00EDa"@es .
+<http://dbpedia.org/resource/Porsche> <http://lexvo.org/ontology#label> "Porsche"@es .
+<http://dbpedia.org/resource/Prize> <http://lexvo.org/ontology#label> "Premios"@es .
+<http://dbpedia.org/resource/Racism> <http://lexvo.org/ontology#label> "Racismo"@es .
+<http://dbpedia.org/resource/Renault> <http://lexvo.org/ontology#label> "Renault"@es .
+<http://dbpedia.org/resource/Reuters> <http://lexvo.org/ontology#label> "Reuters"@es .
+<http://dbpedia.org/resource/Rihanna> <http://lexvo.org/ontology#label> "Rihanna"@es .
+<http://dbpedia.org/resource/Rodeiro> <http://lexvo.org/ontology#label> "Rodeiro"@es .
+<http://dbpedia.org/resource/Romania> <http://lexvo.org/ontology#label> "Ruman\u00EDa"@es .
+<http://dbpedia.org/resource/Ryanair> <http://lexvo.org/ontology#label> "Ryanair"@es .
+<http://dbpedia.org/resource/Seville> <http://lexvo.org/ontology#label> "Sevilla"@es .
+<http://dbpedia.org/resource/Sexism> <http://lexvo.org/ontology#label> "Sexismo"@es .
+<http://dbpedia.org/resource/Event> <http://lexvo.org/ontology#label> "Sucesos"@es .
+<http://dbpedia.org/resource/Work> <http://lexvo.org/ontology#label> "Trabajo"@es .
+<http://dbpedia.org/resource/Tourism> <http://lexvo.org/ontology#label> "Turismo"@es .
+<http://dbpedia.org/resource/Twitter> <http://lexvo.org/ontology#label> "Twitter"@es .
+<http://dbpedia.org/resource/Uruguay> <http://lexvo.org/ontology#label> "Uruguay"@es .
+<http://dbpedia.org/resource/US_Open_%28tennis%29> <http://lexvo.org/ontology#label> "US Open"@es .
+<http://dbpedia.org/resource/Biscay> <http://lexvo.org/ontology#label> "Bizkaia"@es .
+<http://dbpedia.org/resource/Lawyer> <http://lexvo.org/ontology#label> "Abogados"@es .
+<http://dbpedia.org/resource/Actor> <http://lexvo.org/ontology#label> "Actrices"@es .
+<http://dbpedia.org/resource/al-Qaeda> <http://lexvo.org/ontology#label> "Al Qaeda"@es .
+<http://dbpedia.org/resource/Alicante> <http://lexvo.org/ontology#label> "Alicante"@es .
+<http://dbpedia.org/resource/Amnesty> <http://lexvo.org/ontology#label> "Amnist\u00EDa"@es .
+<http://es.dbpedia.org/resource/Amnist%C3%ADa> <http://lexvo.org/ontology#label> "Amnist\u00EDa"@es .
+<http://dbpedia.org/resource/Ana_Mato_Adrover> <http://lexvo.org/ontology#label> "Ana Mato"@es .
+<http://es.dbpedia.org/resource/Ana_Mato> <http://lexvo.org/ontology#label> "Ana Mato"@es .
+<http://dbpedia.org/resource/Archive> <http://lexvo.org/ontology#label> "Archivos"@es .
+<http://dbpedia.org/resource/Balkans> <http://lexvo.org/ontology#label> "Balcanes"@es .
+<http://es.dbpedia.org/resource/Pen%C3%ADnsula_balc%C3%A1nica> <http://lexvo.org/ontology#label> "Balcanes"@es .
+<http://dbpedia.org/resource/Bankia> <http://lexvo.org/ontology#label> "Bancaja"@es .
+<http://es.dbpedia.org/resource/Bancaja> <http://lexvo.org/ontology#label> "Bancaja"@es .
+<http://dbpedia.org/resource/Biology> <http://lexvo.org/ontology#label> "Biolog\u00EDa"@es .
+<http://es.dbpedia.org/resource/Biolog%C3%ADa> <http://lexvo.org/ontology#label> "Biolog\u00EDa"@es .
+<http://dbpedia.org/resource/Fireman> <http://lexvo.org/ontology#label> "Bomberos"@es .
+<http://dbpedia.org/resource/Botswana> <http://lexvo.org/ontology#label> "Botsuana"@es .
+<http://dbpedia.org/resource/Bulgaria> <http://lexvo.org/ontology#label> "Bulgaria"@es .
+<http://dbpedia.org/resource/Canfranc> <http://lexvo.org/ontology#label> "Canfranc"@es .
+<http://dbpedia.org/resource/Cannabis_%28drug%29> <http://lexvo.org/ontology#label> "Cannabis"@es .
+<http://dbpedia.org/resource/Catalonia> <http://lexvo.org/ontology#label> "Catalu\u00F1a"@es .
+<http://dbpedia.org/resource/Cycling> <http://lexvo.org/ontology#label> "Ciclismo"@es .
+<http://dbpedia.org/resource/Citibank> <http://lexvo.org/ontology#label> "Citibank"@es .
+<http://dbpedia.org/resource/Colombia> <http://lexvo.org/ontology#label> "Colombia"@es .
+<http://dbpedia.org/resource/Trade> <http://lexvo.org/ontology#label> "Comercio"@es .
+<http://dbpedia.org/resource/Comillas> <http://lexvo.org/ontology#label> "Comillas"@es .
+<http://dbpedia.org/resource/Credit_%28finance%29> <http://lexvo.org/ontology#label> "Cr\u00E9ditos"@es .
+<http://dbpedia.org/resource/Sport> <http://lexvo.org/ontology#label> "Deportes"@es .
+<http://dbpedia.org/resource/Divorce> <http://lexvo.org/ontology#label> "Divorcio"@es .
+<http://dbpedia.org/resource/Economy> <http://lexvo.org/ontology#label> "Econom\u00EDa"@es .
+<http://dbpedia.org/resource/Business> <http://lexvo.org/ontology#label> "Empresas"@es .
+<http://dbpedia.org/resource/Species> <http://lexvo.org/ontology#label> "Especies"@es .
+<http://dbpedia.org/resource/UEFA_European_Football_Championship> <http://lexvo.org/ontology#label> "Eurocopa"@es .
+<http://dbpedia.org/resource/Facebook> <http://lexvo.org/ontology#label> "Facebook"@es .
+<http://dbpedia.org/resource/Pharmacy> <http://lexvo.org/ontology#label> "Farmacia"@es .
+<http://dbpedia.org/resource/Finance> <http://lexvo.org/ontology#label> "Finanzas"@es .
+<http://dbpedia.org/resource/Attorney_general> <http://lexvo.org/ontology#label> "Fiscal\u00EDa"@es .
+<http://dbpedia.org/resource/Government> <http://lexvo.org/ontology#label> "Gobierno"@es .
+<http://dbpedia.org/resource/Heineken> <http://lexvo.org/ontology#label> "Heineken"@es .
+<http://dbpedia.org/resource/History> <http://lexvo.org/ontology#label> "Historia"@es .
+<http://dbpedia.org/resource/Church> <http://lexvo.org/ontology#label> "Iglesias"@es .
+<http://dbpedia.org/resource/Illinois> <http://lexvo.org/ontology#label> "Illinois"@es .
+<http://dbpedia.org/resource/Internet> <http://lexvo.org/ontology#label> "Internet"@es .
+<http://dbpedia.org/resource/Jude_Law> <http://lexvo.org/ontology#label> "Jude Law"@es .
+<http://dbpedia.org/resource/Justice> <http://lexvo.org/ontology#label> "Justicia"@es .
+<http://dbpedia.org/resource/Youth> <http://lexvo.org/ontology#label> "Juventud"@es .
+<http://dbpedia.org/resource/Marbella> <http://lexvo.org/ontology#label> "Marbella"@es .
+<http://dbpedia.org/resource/Marlango> <http://lexvo.org/ontology#label> "Marlango"@es .
+<http://dbpedia.org/resource/Medicine> <http://lexvo.org/ontology#label> "Medicina"@es .
+<http://dbpedia.org/resource/Movistar> <http://lexvo.org/ontology#label> "Movistar"@es .
+<http://dbpedia.org/resource/Paraguay> <http://lexvo.org/ontology#label> "Paraguay"@es .
+<http://dbpedia.org/resource/Politics> <http://lexvo.org/ontology#label> "Pol\u00EDtica"@es .
+<http://dbpedia.org/resource/Portugal> <http://lexvo.org/ontology#label> "Portugal"@es .
+<http://dbpedia.org/resource/Religion> <http://lexvo.org/ontology#label> "Religi\u00F3n"@es .
+<http://dbpedia.org/resource/Society> <http://lexvo.org/ontology#label> "Sociedad"@es .
+<http://dbpedia.org/resource/Software> <http://lexvo.org/ontology#label> "Programas inform\u00E1ticos"@es .
+<http://dbpedia.org/resource/Sotheby%27s> <http://lexvo.org/ontology#label> "Sotheby's"@es .
+<http://dbpedia.org/resource/Tarazona> <http://lexvo.org/ontology#label> "Tarazona"@es .
+<http://dbpedia.org/resource/The_Wire> <http://lexvo.org/ontology#label> "The Wire"@es .
+<http://dbpedia.org/resource/Universe> <http://lexvo.org/ontology#label> "Universo"@es .
+<http://dbpedia.org/resource/Volvo> <http://lexvo.org/ontology#label> "Volvo Ab"@es .
+<http://dbpedia.org/resource/Activism> <http://lexvo.org/ontology#label> "Activismo"@es .
+<http://dbpedia.org/resource/Hobby> <http://lexvo.org/ontology#label> "Aficiones"@es .
+<http://dbpedia.org/resource/Al_Jazeera> <http://lexvo.org/ontology#label> "Al Yazira"@es .
+<http://dbpedia.org/resource/Food> <http://lexvo.org/ontology#label> "Alimentos"@es .
+<http://dbpedia.org/resource/Mountaineering> <http://lexvo.org/ontology#label> "Alpinismo"@es .
+<http://dbpedia.org/resource/Andalusia> <http://lexvo.org/ontology#label> "Andaluc\u00EDa"@es .
+<http://dbpedia.org/resource/Argentina> <http://lexvo.org/ontology#label> "Argentina"@es .
+<http://dbpedia.org/resource/Athletics> <http://lexvo.org/ontology#label> "Atletismo"@es .
+<http://dbpedia.org/resource/Australia> <http://lexvo.org/ontology#label> "Australia"@es .
+<http://dbpedia.org/resource/Bankinter> <http://lexvo.org/ontology#label> "Bankinter"@es .
+<http://dbpedia.org/resource/Barcelona> <http://lexvo.org/ontology#label> "Barcelona"@es .
+<http://dbpedia.org/resource/Bob_Bryan> <http://lexvo.org/ontology#label> "Bob Bryan"@es .
+<http://dbpedia.org/resource/Brad_Pitt> <http://lexvo.org/ontology#label> "Brad Pitt"@es .
+<http://dbpedia.org/resource/Caixabank> <http://lexvo.org/ontology#label> "Caixabank"@es .
+<http://es.dbpedia.org/resource/Casa_Asia> <http://lexvo.org/ontology#label> "Casa Asia "@es .
+<http://dbpedia.org/resource/Christie%27s> <http://lexvo.org/ontology#label> "Christie's"@es .
+<http://dbpedia.org/resource/Coca-Cola> <http://lexvo.org/ontology#label> "Coca-Cola"@es .
+<http://dbpedia.org/resource/Synod> <http://lexvo.org/ontology#label> "Concilios"@es .
+<http://es.dbpedia.org/resource/Concilio> <http://lexvo.org/ontology#label> "Concilios"@es .
+<http://dbpedia.org/resource/Contract> <http://lexvo.org/ontology#label> "Contratos"@es .
+<http://es.dbpedia.org/resource/Contrato> <http://lexvo.org/ontology#label> "Contratos"@es .
+<http://dbpedia.org/resource/Dictatorship> <http://lexvo.org/ontology#label> "Dictadura"@es .
+<http://dbpedia.org/resource/documenta> <http://lexvo.org/ontology#label> "Documenta"@es .
+<http://dbpedia.org/resource/Sculpture> <http://lexvo.org/ontology#label> "Escultura"@es .
+<http://dbpedia.org/resource/Las_Vegas_Sands> <http://lexvo.org/ontology#label> "Eurovegas"@es .
+<http://dbpedia.org/resource/Fanaticism> <http://lexvo.org/ontology#label> "Fanatismo"@es .
+<http://dbpedia.org/resource/Pharmacy> <http://lexvo.org/ontology#label> "Farmacias"@es .
+<http://dbpedia.org/resource/Feminism> <http://lexvo.org/ontology#label> "Feminismo"@es .
+<http://dbpedia.org/resource/Philosophy> <http://lexvo.org/ontology#label> "Filosof\u00EDa"@es .
+<http://es.dbpedia.org/resource/Filosof%C3%ADa> <http://lexvo.org/ontology#label> "Filosof\u00EDa"@es .
+<http://dbpedia.org/resource/Finland> <http://lexvo.org/ontology#label> "Finlandia"@es .
+<http://es.dbpedia.org/resource/Finlandia> <http://lexvo.org/ontology#label> "Finlandia"@es .
+<http://dbpedia.org/resource/Formula_One> <http://lexvo.org/ontology#label> "F\u00F3rmula 1"@es .
+<http://dbpedia.org/resource/Gibraltar> <http://lexvo.org/ontology#label> "Gibraltar"@es .
+<http://dbpedia.org/resource/Gipuzkoa> <http://lexvo.org/ontology#label> "Gipuzkoa"@es .
+<http://dbpedia.org/resource/Hollywood> <http://lexvo.org/ontology#label> "Hollywood"@es .
+<http://dbpedia.org/resource/Homophobia> <http://lexvo.org/ontology#label> "Homofobia"@es .
+<http://dbpedia.org/resource/Iberdrola> <http://lexvo.org/ontology#label> "Iberdrola"@es .
+<http://dbpedia.org/resource/Tax> <http://lexvo.org/ontology#label> "Impuestos"@es .
+<http://dbpedia.org/resource/Fire> <http://lexvo.org/ontology#label> "Incendios"@es .
+<http://dbpedia.org/resource/Industry> <http://lexvo.org/ontology#label> "Industria"@es .
+<http://dbpedia.org/resource/Player_%28game%29> <http://lexvo.org/ontology#label> "Jugadores"@es .
+<http://dbpedia.org/resource/Kate_Moss> <http://lexvo.org/ontology#label> "Kate Moss"@es .
+<http://dbpedia.org/resource/Bible> <http://lexvo.org/ontology#label> "La Biblia"@es .
+<http://dbpedia.org/resource/Lady_Gaga> <http://lexvo.org/ontology#label> "Lady Gaga"@es .
+<http://dbpedia.org/resource/Las_Vegas> <http://lexvo.org/ontology#label> "Las Vegas"@es .
+<http://dbpedia.org/resource/Legionella> <http://lexvo.org/ontology#label> "Legionela"@es .
+<http://dbpedia.org/resource/Tsunami> <http://lexvo.org/ontology#label> "Maremotos"@es .
+<http://dbpedia.org/resource/Nepotism> <http://lexvo.org/ontology#label> "Nepotismo"@es .
+<http://dbpedia.org/resource/Nutrition> <http://lexvo.org/ontology#label> "Nutrici\u00F3n"@es .
+<http://dbpedia.org/resource/Palestine> <http://lexvo.org/ontology#label> "Palestina"@es .
+<http://dbpedia.org/resource/Pedophilia> <http://lexvo.org/ontology#label> "Pedofilia"@es .
+<http://dbpedia.org/resource/Politician> <http://lexvo.org/ontology#label> "Pol\u00EDticos"@es .
+<http://dbpedia.org/resource/Sean_Penn> <http://lexvo.org/ontology#label> "Sean Penn"@es .
+<http://dbpedia.org/resource/Television_program%23Seasons/series> <http://lexvo.org/ontology#label> "Series tv"@es .
+<http://dbpedia.org/resource/Tarragona> <http://lexvo.org/ontology#label> "Tarragona"@es .
+<http://dbpedia.org/resource/Tea_Party_movement> <http://lexvo.org/ontology#label> "Tea party"@es .
+<http://dbpedia.org/resource/The_Championships,_Wimbledon> <http://lexvo.org/ontology#label> "Wimbledon"@es .
+<http://dbpedia.org/resource/Wisconsin> <http://lexvo.org/ontology#label> "Wisconsin"@es .
+<http://dbpedia.org/resource/Xenophobia> <http://lexvo.org/ontology#label> "Xenofobia"@es .
+<http://dbpedia.org/resource/Eurozone> <http://lexvo.org/ontology#label> "Zona euro"@es .
+<http://dbpedia.org/resource/Accident> <http://lexvo.org/ontology#label> "Accidentes"@es .
+<http://dbpedia.org/resource/Addiction> <http://lexvo.org/ontology#label> "Adicciones"@es .
+<http://dbpedia.org/resource/Adoption> <http://lexvo.org/ontology#label> "Adopciones"@es .
+<http://es.dbpedia.org/resource/Adopci%C3%B3n> <http://lexvo.org/ontology#label> "Adopciones"@es .
+<http://dbpedia.org/resource/Airline> <http://lexvo.org/ontology#label> "Aerol\u00EDneas"@es .
+<http://dbpedia.org/resource/Air_Europa> <http://lexvo.org/ontology#label> "Air Europa"@es .
+<http://dbpedia.org/resource/Astrology> <http://lexvo.org/ontology#label> "Astrolog\u00EDa"@es .
+<http://dbpedia.org/resource/Controlled-access_highway> <http://lexvo.org/ontology#label> "Autopistas"@es .
+<http://dbpedia.org/resource/Bill_Gross> <http://lexvo.org/ontology#label> "Bill Gross"@es .
+<http://dbpedia.org/resource/Biography> <http://lexvo.org/ontology#label> "Biograf\u00EDas"@es .
+<http://es.dbpedia.org/resource/Biograf%C3%ADa> <http://lexvo.org/ontology#label> "Biograf\u00EDas"@es .
+<http://dbpedia.org/resource/Biochemistry> <http://lexvo.org/ontology#label> "Bioqu\u00EDmica"@es .
+<http://es.dbpedia.org/resource/Bioqu%C3%ADmica> <http://lexvo.org/ontology#label> "Bioqu\u00EDmica"@es .
+<http://dbpedia.org/resource/Bob_Geldof> <http://lexvo.org/ontology#label> "Bob Geldof"@es .
+<http://dbpedia.org/resource/California> <http://lexvo.org/ontology#label> "California"@es .
+<http://dbpedia.org/resource/Canal+> <http://lexvo.org/ontology#label> "Canal plus"@es .
+<http://dbpedia.org/resource/Spanish_language> <http://lexvo.org/ontology#label> "Castellano"@es .
+<http://es.dbpedia.org/resource/Caza_mayor> <http://lexvo.org/ontology#label> "Caza mayor"@es .
+<http://dbpedia.org/resource/Commissioner> <http://lexvo.org/ontology#label> "Comisar\u00EDas"@es .
+<http://dbpedia.org/resource/Concert> <http://lexvo.org/ontology#label> "Conciertos"@es .
+<http://dbpedia.org/resource/Cond%C3%A9_Nast> <http://lexvo.org/ontology#label> "Conde Nast"@es .
+<http://dbpedia.org/resource/Textile_industry> <http://lexvo.org/ontology#label> "Confecci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Corte_y_confecci%C3%B3n> <http://lexvo.org/ontology#label> "Confecci\u00F3n"@es .
+<http://dbpedia.org/resource/Conflict> <http://lexvo.org/ontology#label> "Conflictos"@es .
+<http://dbpedia.org/resource/Davis_Cup> <http://lexvo.org/ontology#label> "Copa Davis"@es .
+<http://dbpedia.org/resource/Corruption> <http://lexvo.org/ontology#label> "Corrupci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Corrupci%C3%B3n> <http://lexvo.org/ontology#label> "Corrupci\u00F3n"@es .
+<http://dbpedia.org/resource/Cosmetics> <http://lexvo.org/ontology#label> "Cosm\u00E9ticos"@es .
+<http://es.dbpedia.org/resource/Cosm%C3%A9tico> <http://lexvo.org/ontology#label> "Cosm\u00E9ticos"@es .
+<http://dbpedia.org/resource/Democracy> <http://lexvo.org/ontology#label> "Democracia"@es .
+<http://dbpedia.org/resource/Diplomacy> <http://lexvo.org/ontology#label> "Diplomacia"@es .
+<http://dbpedia.org/resource/Nightclub> <http://lexvo.org/ontology#label> "Discotecas"@es .
+<http://dbpedia.org/resource/Election> <http://lexvo.org/ontology#label> "Elecciones"@es .
+<http://dbpedia.org/resource/Elton_John> <http://lexvo.org/ontology#label> "Elton John"@es .
+<http://dbpedia.org/resource/Screenwriter> <http://lexvo.org/ontology#label> "Guionistas"@es .
+<http://dbpedia.org/resource/Heidi_Klum> <http://lexvo.org/ontology#label> "Heidi Klum"@es .
+<http://dbpedia.org/resource/Homicide> <http://lexvo.org/ontology#label> "Homicidios"@es .
+<http://dbpedia.org/resource/Hospital> <http://lexvo.org/ontology#label> "Hospitales"@es .
+<http://dbpedia.org/resource/Kazakhstan> <http://lexvo.org/ontology#label> "Kazajist\u00E1n"@es .
+<http://dbpedia.org/resource/Land_Rover> <http://lexvo.org/ontology#label> "Land Rover"@es .
+<http://dbpedia.org/resource/Literature> <http://lexvo.org/ontology#label> "Literatura"@es .
+<http://dbpedia.org/resource/Marriage> <http://lexvo.org/ontology#label> "Matrimonio"@es .
+<http://dbpedia.org/resource/Mesut_%C3%96zil> <http://lexvo.org/ontology#label> "Mesut \u00D6zil"@es .
+<http://dbpedia.org/resource/Mitsubishi> <http://lexvo.org/ontology#label> "Mitsubishi"@es .
+<http://dbpedia.org/resource/Monopoly> <http://lexvo.org/ontology#label> "Monopolios"@es .
+<http://dbpedia.org/resource/Monument> <http://lexvo.org/ontology#label> "Monumentos"@es .
+<http://dbpedia.org/resource/Mortality> <http://lexvo.org/ontology#label> "Mortalidad"@es .
+<http://dbpedia.org/resource/Nick_Clegg> <http://lexvo.org/ontology#label> "Nick Clegg"@es .
+<http://dbpedia.org/resource/Kinship> <http://lexvo.org/ontology#label> "Parentesco"@es .
+<http://dbpedia.org/resource/Parliament> <http://lexvo.org/ontology#label> "Parlamento"@es .
+<http://dbpedia.org/resource/Pepsi> <http://lexvo.org/ontology#label> "Pepsi-Cola"@es .
+<http://dbpedia.org/resource/Journalism> <http://lexvo.org/ontology#label> "Periodismo"@es .
+<http://dbpedia.org/resource/Prejudice> <http://lexvo.org/ontology#label> "Prejuicios"@es .
+<http://dbpedia.org/resource/Rick_Perry> <http://lexvo.org/ontology#label> "Rick Perry"@es .
+<http://dbpedia.org/resource/Sexuality> <http://lexvo.org/ontology#label> "Sexualidad"@es .
+<http://dbpedia.org/resource/Socialism> <http://lexvo.org/ontology#label> "Socialismo"@es .
+<http://dbpedia.org/resource/Telebasura> <http://lexvo.org/ontology#label> "Telebasura"@es .
+<http://dbpedia.org/resource/Telef%C3%B3nica> <http://lexvo.org/ontology#label> "Telef\u00F3nica"@es .
+<http://dbpedia.org/resource/Television> <http://lexvo.org/ontology#label> "Televisi\u00F3n"@es .
+<http://dbpedia.org/resource/Earthquake> <http://lexvo.org/ontology#label> "Terremotos"@es .
+<http://dbpedia.org/resource/Terrorism> <http://lexvo.org/ontology#label> "Terrorismo"@es .
+<http://dbpedia.org/resource/The_Office> <http://lexvo.org/ontology#label> "The office"@es .
+<http://dbpedia.org/resource/Tom_Cruise> <http://lexvo.org/ontology#label> "Tom Cruise"@es .
+<http://dbpedia.org/resource/Transport> <http://lexvo.org/ontology#label> "Transporte"@es .
+<http://dbpedia.org/resource/Holiday> <http://lexvo.org/ontology#label> "Vacaciones"@es .
+<http://dbpedia.org/resource/Airport> <http://lexvo.org/ontology#label> "Aeropuertos"@es .
+<http://dbpedia.org/resource/Agriculture> <http://lexvo.org/ontology#label> "Agricultura"@es .
+<http://dbpedia.org/resource/Ana_Botella> <http://lexvo.org/ontology#label> "Ana Botella"@es .
+<http://dbpedia.org/resource/Ana_Torroja> <http://lexvo.org/ontology#label> "Ana Torroja"@es .
+<http://dbpedia.org/resource/Andy_Warhol> <http://lexvo.org/ontology#label> "Andy Warhol"@es .
+<http://es.dbpedia.org/resource/Ant%C3%B3n_Reixa> <http://lexvo.org/ontology#label> "Ant\u00F3n Reixa"@es .
+<http://dbpedia.org/resource/Archaeology> <http://lexvo.org/ontology#label> "Arqueolog\u00EDa"@es .
+<http://es.dbpedia.org/resource/Arqueolog%C3%ADa> <http://lexvo.org/ontology#label> "Arqueolog\u00EDa"@es .
+<http://dbpedia.org/resource/Astronaut> <http://lexvo.org/ontology#label> "Astronautas"@es .
+<http://es.dbpedia.org/resource/B%C3%A1rbara_Rey> <http://lexvo.org/ontology#label> "B\u00E1rbara Rey"@es .
+<http://dbpedia.org/resource/Ben_Stiller> <http://lexvo.org/ontology#label> "Ben Stiller"@es .
+<http://dbpedia.org/resource/Library> <http://lexvo.org/ontology#label> "Bibliotecas"@es .
+<http://es.dbpedia.org/resource/Biling%C3%BCismo> <http://lexvo.org/ontology#label> "Biling\u00FCismo"@es .
+<http://dbpedia.org/resource/Higgs_boson> <http://lexvo.org/ontology#label> "Bos\u00F3n de Higgs"@es .
+<http://dbpedia.org/resource/Cadel_Evans> <http://lexvo.org/ontology#label> "Cadel Evans"@es .
+<http://dbpedia.org/resource/Capitalism> <http://lexvo.org/ontology#label> "Capitalismo"@es .
+<http://dbpedia.org/resource/Carla_Bruni> <http://lexvo.org/ontology#label> "Carla Bruni"@es .
+<http://es.dbpedia.org/resource/Caso_G%C3%BCrtel> <http://lexvo.org/ontology#label> "Caso G\u00FCrtel"@es .
+<http://dbpedia.org/resource/Operation_Malaya> <http://lexvo.org/ontology#label> "Caso Malaya"@es .
+<http://es.dbpedia.org/resource/Caso_Malaya> <http://lexvo.org/ontology#label> "Caso Malaya"@es .
+<http://dbpedia.org/resource/Disaster> <http://lexvo.org/ontology#label> "Cat\u00E1strofes"@es .
+<http://es.dbpedia.org/resource/Desastre> <http://lexvo.org/ontology#label> "Cat\u00E1strofes"@es .
+<http://dbpedia.org/resource/Colin_Firth> <http://lexvo.org/ontology#label> "Colin Firth"@es .
+<http://dbpedia.org/resource/David_Silva> <http://lexvo.org/ontology#label> "David Silva"@es .
+<http://dbpedia.org/resource/Sportsperson> <http://lexvo.org/ontology#label> "Deportistas"@es .
+<http://dbpedia.org/resource/El_Salvador> <http://lexvo.org/ontology#label> "El Salvador"@es .
+<http://dbpedia.org/resource/Elsa_Pataky> <http://lexvo.org/ontology#label> "Elsa Pataky"@es .
+<http://dbpedia.org/resource/Emergency> <http://lexvo.org/ontology#label> "Emergencias"@es .
+<http://dbpedia.org/resource/Student> <http://lexvo.org/ontology#label> "Estudiantes"@es .
+<http://dbpedia.org/resource/Expulsion> <http://lexvo.org/ontology#label> "Expulsiones"@es .
+<http://dbpedia.org/resource/Federalism> <http://lexvo.org/ontology#label> "Federalismo"@es .
+<http://dbpedia.org/resource/Frida_Kahlo> <http://lexvo.org/ontology#label> "Frida Kahlo"@es .
+<http://dbpedia.org/resource/Football_player> <http://lexvo.org/ontology#label> "Futbolistas"@es .
+<http://dbpedia.org/resource/Geopolitics> <http://lexvo.org/ontology#label> "Geopol\u00EDtica"@es .
+<http://dbpedia.org/resource/HRT_F1> <http://lexvo.org/ontology#label> "HRT F1 Team"@es .
+<http://dbpedia.org/resource/Karl_Popper> <http://lexvo.org/ontology#label> "Karl Popper"@es .
+<http://dbpedia.org/resource/Leire_Paj%C3%ADn> <http://lexvo.org/ontology#label> "Leire Paj\u00EDn"@es .
+<http://dbpedia.org/resource/The_Simpsons> <http://lexvo.org/ontology#label> "Los Simpson"@es .
+<http://dbpedia.org/resource/The_Sopranos> <http://lexvo.org/ontology#label> "Los Soprano"@es .
+<http://dbpedia.org/resource/Marie_Curie> <http://lexvo.org/ontology#label> "Marie Curie"@es .
+<http://dbpedia.org/resource/Mario_Casas> <http://lexvo.org/ontology#label> "Mario Casas"@es .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez> <http://lexvo.org/ontology#label> "Mario G\u00F3mez"@es .
+<http://dbpedia.org/resource/Mario_Monti> <http://lexvo.org/ontology#label> "Mario Monti"@es .
+<http://dbpedia.org/resource/Metrovacesa> <http://lexvo.org/ontology#label> "Metrovacesa"@es .
+<http://dbpedia.org/resource/Mick_Jagger> <http://lexvo.org/ontology#label> "Mick Jagger"@es .
+<http://dbpedia.org/resource/Ministry> <http://lexvo.org/ontology#label> "Ministerios"@es .
+<http://dbpedia.org/resource/Mitt_Romney> <http://lexvo.org/ontology#label> "Mitt Romney"@es .
+<http://dbpedia.org/resource/Museo_del_Prado> <http://lexvo.org/ontology#label> "Museo del Prado"@es .
+<http://dbpedia.org/resource/Journalist> <http://lexvo.org/ontology#label> "Periodistas"@es .
+<http://dbpedia.org/resource/Pininfarina> <http://lexvo.org/ontology#label> "Pininfarina"@es .
+<http://dbpedia.org/resource/Television_program> <http://lexvo.org/ontology#label> "Programa tv"@es .
+<http://dbpedia.org/resource/Range_Rover> <http://lexvo.org/ontology#label> "Range Rover"@es .
+<http://dbpedia.org/resource/Ra%C3%BAl_Castro> <http://lexvo.org/ontology#label> "Ra\u00FAl Castro"@es .
+<http://dbpedia.org/resource/Real_Madrid_C.F.> <http://lexvo.org/ontology#label> "Real Madrid"@es .
+<http://dbpedia.org/resource/United_Kingdom> <http://lexvo.org/ontology#label> "Reino Unido"@es .
+<http://dbpedia.org/resource/Rolls-Royce> <http://lexvo.org/ontology#label> "Rolls Royce"@es .
+<http://dbpedia.org/resource/Salma_Hayek> <http://lexvo.org/ontology#label> "Salma Hayek"@es .
+<http://dbpedia.org/resource/Solidarity> <http://lexvo.org/ontology#label> "Solidaridad"@es .
+<http://dbpedia.org/resource/Spice_Girls> <http://lexvo.org/ontology#label> "Spice Girls"@es .
+<http://dbpedia.org/resource/Suha_Arafat> <http://lexvo.org/ontology#label> "Suha Arafat"@es .
+<http://dbpedia.org/resource/Technocracy> <http://lexvo.org/ontology#label> "Tecnocracia"@es .
+<http://dbpedia.org/resource/Letizia,_Princess_of_Asturias> <http://lexvo.org/ontology#label> "Telma Ortiz"@es .
+<http://dbpedia.org/resource/Terrorism> <http://lexvo.org/ontology#label> "Terroristas"@es .
+<http://dbpedia.org/resource/Todd_Haynes> <http://lexvo.org/ontology#label> "Todd Haynes"@es .
+<http://dbpedia.org/resource/Uma_Thurman> <http://lexvo.org/ontology#label> "Uma Thurman"@es .
+<http://dbpedia.org/resource/University> <http://lexvo.org/ontology#label> "Universidad"@es .
+<http://dbpedia.org/resource/Wall_Street> <http://lexvo.org/ontology#label> "Wall Street"@es .
+<http://dbpedia.org/resource/Xabi_Alonso> <http://lexvo.org/ontology#label> "Xabi Alonso"@es .
+<http://dbpedia.org/resource/Japanese_yen> <http://lexvo.org/ontology#label> "Yen"@es .
+<http://dbpedia.org/resource/Sexual_harassment> <http://lexvo.org/ontology#label> "Acoso sexual"@es .
+<http://dbpedia.org/resource/Albert_Costa> <http://lexvo.org/ontology#label> "Albert Costa"@es .
+<http://dbpedia.org/resource/Alec_Baldwin> <http://lexvo.org/ontology#label> "Alec Baldwin"@es .
+<http://dbpedia.org/resource/Eating> <http://lexvo.org/ontology#label> "Alimentaci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Alimentaci%C3%B3n> <http://lexvo.org/ontology#label> "Alimentaci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Hosteler%C3%ADa> <http://lexvo.org/ontology#label> "Alojamientos"@es .
+<http://dbpedia.org/resource/Haute_couture> <http://lexvo.org/ontology#label> "Alta costura"@es .
+<http://dbpedia.org/resource/Andrea_Pirlo> <http://lexvo.org/ontology#label> "Andrea Pirlo"@es .
+<http://dbpedia.org/resource/Andy_Roddick> <http://lexvo.org/ontology#label> "Andy Roddick"@es .
+<http://dbpedia.org/resource/Anna_Wintour> <http://lexvo.org/ontology#label> "Anna Wintour"@es .
+<http://dbpedia.org/resource/Antoni_Gaud%C3%AD> <http://lexvo.org/ontology#label> "Antoni Gaudi"@es .
+<http://dbpedia.org/resource/Saudi_Arabia> <http://lexvo.org/ontology#label> "Arabia Saud\u00ED"@es .
+<http://es.dbpedia.org/resource/Arabia_Saudita> <http://lexvo.org/ontology#label> "Arabia Saud\u00ED"@es .
+<http://dbpedia.org/resource/Architecture> <http://lexvo.org/ontology#label> "Arquitectura"@es .
+<http://dbpedia.org/resource/Insurance> <http://lexvo.org/ontology#label> "Aseguradoras"@es .
+<http://dbpedia.org/resource/Aston_Martin> <http://lexvo.org/ontology#label> "Aston Mart\u00EDn"@es .
+<http://dbpedia.org/resource/Astronautics> <http://lexvo.org/ontology#label> "Astron\u00E1utica"@es .
+<http://dbpedia.org/resource/Banco_Pastor> <http://lexvo.org/ontology#label> "Banco Pastor"@es .
+<http://es.dbpedia.org/resource/Banco_Pastor> <http://lexvo.org/ontology#label> "Banco Pastor"@es .
+<http://dbpedia.org/resource/Barack_Obama> <http://lexvo.org/ontology#label> "Barack Obama"@es .
+<http://dbpedia.org/resource/Bill_Clinton> <http://lexvo.org/ontology#label> "Bill Clinton"@es .
+<http://dbpedia.org/resource/Bolsa_de_Madrid> <http://lexvo.org/ontology#label> "Bolsa Madrid"@es .
+<http://es.dbpedia.org/resource/Bolsa_de_Madrid> <http://lexvo.org/ontology#label> "Bolsa Madrid"@es .
+<http://dbpedia.org/resource/Buenos_Aires> <http://lexvo.org/ontology#label> "Buenos Aires"@es .
+<http://dbpedia.org/resource/Carles_Puyol> <http://lexvo.org/ontology#label> "Carles Puyol"@es .
+<http://dbpedia.org/resource/Carme_Chac%C3%B3n> <http://lexvo.org/ontology#label> "Carme Chac\u00F3n"@es .
+<http://dbpedia.org/resource/Carmen_Machi> <http://lexvo.org/ontology#label> "Carmen Machi"@es .
+<http://es.dbpedia.org/resource/Carmen_Machi> <http://lexvo.org/ontology#label> "Carmen Machi"@es .
+<http://es.dbpedia.org/resource/Caso_Banesto> <http://lexvo.org/ontology#label> "Caso Banesto"@es .
+<http://dbpedia.org/resource/Central_Europe> <http://lexvo.org/ontology#label> "Centroeuropa"@es .
+<http://es.dbpedia.org/resource/Europa_Central> <http://lexvo.org/ontology#label> "Centroeuropa"@es .
+<http://dbpedia.org/resource/Cinema_of_Spain> <http://lexvo.org/ontology#label> "Cine espa\u00F1ol"@es .
+<http://es.dbpedia.org/resource/Cine_espa%C3%B1ol> <http://lexvo.org/ontology#label> "Cine espa\u00F1ol"@es .
+<http://dbpedia.org/resource/Claude_Monet> <http://lexvo.org/ontology#label> "Claude Monet"@es .
+<http://dbpedia.org/resource/Communication> <http://lexvo.org/ontology#label> "Comunicaci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Comunicaci%C3%B3n> <http://lexvo.org/ontology#label> "Comunicaci\u00F3n"@es .
+<http://dbpedia.org/resource/Conference> <http://lexvo.org/ontology#label> "Conferencias"@es .
+<http://dbpedia.org/resource/Consumer> <http://lexvo.org/ontology#label> "Consumidores"@es .
+<http://dbpedia.org/resource/Disability> <http://lexvo.org/ontology#label> "Discapacidad"@es .
+<http://dbpedia.org/resource/Donald_Trump> <http://lexvo.org/ontology#label> "Donald Trump"@es .
+<http://dbpedia.org/resource/Illness> <http://lexvo.org/ontology#label> "Enfermedades"@es .
+<http://dbpedia.org/resource/Exhibition> <http://lexvo.org/ontology#label> "Exposiciones"@es .
+<http://dbpedia.org/resource/Spanish_Royal_Family> <http://lexvo.org/ontology#label> "Familia Real"@es .
+<http://es.dbpedia.org/resource/Familia_Real_Espa%C3%B1ola> <http://lexvo.org/ontology#label> "Familia Real"@es .
+<http://es.dbpedia.org/resource/F%C3%A1tima_B%C3%A1%C3%B1ez> <http://lexvo.org/ontology#label> "F\u00E1tima B\u00E1\u00F1ez"@es .
+<http://dbpedia.org/resource/Faye_Dunaway> <http://lexvo.org/ontology#label> "Faye Dunaway"@es .
+<http://dbpedia.org/resource/FC_Barcelona> <http://lexvo.org/ontology#label> "FC Barcelona"@es .
+<http://dbpedia.org/resource/Ferran_Adri%C3%A0> <http://lexvo.org/ontology#label> "Ferran Adri\u00E0"@es .
+<http://es.dbpedia.org/resource/Ferran_Adri%C3%A0> <http://lexvo.org/ontology#label> "Ferran Adri\u00E0"@es .
+<http://dbpedia.org/resource/Fidel_Castro> <http://lexvo.org/ontology#label> "Fidel Castro"@es .
+<http://dbpedia.org/resource/Funding> <http://lexvo.org/ontology#label> "Financiaci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Financiaci%C3%B3n> <http://lexvo.org/ontology#label> "Financiaci\u00F3n"@es .
+<http://dbpedia.org/resource/Franck_Rib%C3%A9ry> <http://lexvo.org/ontology#label> "Franck Rib\u00E9ry"@es .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> <http://lexvo.org/ontology#label> "Gerard Piqu\u00E9"@es .
+<http://dbpedia.org/resource/Gordon_Brown> <http://lexvo.org/ontology#label> "Gordon Brown"@es .
+<http://dbpedia.org/resource/Hedi_Slimane> <http://lexvo.org/ontology#label> "Hedi Slimane"@es .
+<http://dbpedia.org/resource/Tabarca> <http://lexvo.org/ontology#label> "Isla de Tabarca"@es .
+<http://dbpedia.org/resource/John_Edwards> <http://lexvo.org/ontology#label> "John Edwards"@es .
+<http://dbpedia.org/resource/Joseph_Stalin> <http://lexvo.org/ontology#label> "Josef Stalin"@es .
+<http://dbpedia.org/resource/Katie_Holmes> <http://lexvo.org/ontology#label> "Katie Holmes"@es .
+<http://dbpedia.org/resource/Legalization> <http://lexvo.org/ontology#label> "Legalizaci\u00F3n"@es .
+<http://dbpedia.org/resource/Mariah_Carey> <http://lexvo.org/ontology#label> "Mar\u00EDah Carey"@es .
+<http://dbpedia.org/resource/Mario_Draghi> <http://lexvo.org/ontology#label> "Mario Draghi"@es .
+<http://dbpedia.org/resource/Meryl_Streep> <http://lexvo.org/ontology#label> "Meryl Streep"@es .
+<http://dbpedia.org/resource/Mus%C3%A9e_du_Louvre> <http://lexvo.org/ontology#label> "Museo del Louvre"@es .
+<http://dbpedia.org/resource/Illegal_drug_trade> <http://lexvo.org/ontology#label> "Narcotr\u00E1fico"@es .
+<http://dbpedia.org/resource/NatWest> <http://lexvo.org/ontology#label> "Natwest Bank"@es .
+<http://dbpedia.org/resource/Rafael_Nadal> <http://lexvo.org/ontology#label> "Rafael Nadal"@es .
+<http://dbpedia.org/resource/Raquel_Welch> <http://lexvo.org/ontology#label> "Raquel Welch"@es .
+<http://dbpedia.org/resource/Ratko_Mladi%C4%87> <http://lexvo.org/ontology#label> "Ratko Mladic"@es .
+<http://dbpedia.org/resource/Reality_television> <http://lexvo.org/ontology#label> "Reality show"@es .
+<http://dbpedia.org/resource/Restaurant> <http://lexvo.org/ontology#label> "Restaurantes"@es .
+<http://dbpedia.org/resource/Revolution> <http://lexvo.org/ontology#label> "Revoluciones"@es .
+<http://dbpedia.org/resource/Rui_Patr%C3%ADcio> <http://lexvo.org/ontology#label> "Rui Patr\u00EDcio"@es .
+<http://dbpedia.org/resource/Sami_Khedira> <http://lexvo.org/ontology#label> "Sami Khedira"@es .
+<http://dbpedia.org/resource/Sean_Connery> <http://lexvo.org/ontology#label> "Sean Connery"@es .
+<http://dbpedia.org/resource/Sergio_Ramos> <http://lexvo.org/ontology#label> "Sergio Ramos"@es .
+<http://dbpedia.org/resource/Syndicalism> <http://lexvo.org/ontology#label> "Sindicalismo"@es .
+<http://dbpedia.org/resource/The_Guardian> <http://lexvo.org/ontology#label> "The Guardian"@es .
+<http://dbpedia.org/resource/Leisure> <http://lexvo.org/ontology#label> " Tiempo libre"@es .
+<http://dbpedia.org/resource/Tour_de_France> <http://lexvo.org/ontology#label> "Tour Francia"@es .
+<http://dbpedia.org/resource/Translations> <http://lexvo.org/ontology#label> "Traducciones"@es .
+<http://dbpedia.org/resource/Far-right_politics> <http://lexvo.org/ontology#label> "Ultraderecha"@es .
+<http://dbpedia.org/resource/AMRO_Bank> <http://lexvo.org/ontology#label> "ABN AMRO Bank"@es .
+<http://dbpedia.org/resource/Alberto_Fabra> <http://lexvo.org/ontology#label> "Alberto Fabra"@es .
+<http://dbpedia.org/resource/Amy_Winehouse> <http://lexvo.org/ontology#label> "Amy Winehouse"@es .
+<http://dbpedia.org/resource/Andr%C3%A9s_Gimeno> <http://lexvo.org/ontology#label> "Andr\u00E9s Gimeno"@es .
+<http://es.dbpedia.org/resource/Andr%C3%A9s_Gimeno> <http://lexvo.org/ontology#label> "Andr\u00E9s Gimeno"@es .
+<http://dbpedia.org/resource/Angela_Merkel> <http://lexvo.org/ontology#label> "Angela Merkel"@es .
+<http://dbpedia.org/resource/Anne_Sinclair> <http://lexvo.org/ontology#label> "Anne Sinclair"@es .
+<http://es.dbpedia.org/resource/Arcadi_Espada> <http://lexvo.org/ontology#label> "Arcadi Espada"@es .
+<http://dbpedia.org/resource/Urban_area> <http://lexvo.org/ontology#label> "Areas urbanas"@es .
+<http://es.dbpedia.org/resource/Espacio_urbano> <http://lexvo.org/ontology#label> "Areas urbanas"@es .
+<http://dbpedia.org/resource/Arnaldo_Otegi> <http://lexvo.org/ontology#label> "Arnaldo Otegi"@es .
+<http://es.dbpedia.org/resource/Arnaldo_Otegi> <http://lexvo.org/ontology#label> "Arnaldo Otegi"@es .
+<http://dbpedia.org/resource/Medieval_art> <http://lexvo.org/ontology#label> "Arte medieval"@es .
+<http://dbpedia.org/resource/Romanesque_art> <http://lexvo.org/ontology#label> "Arte rom\u00E1nico"@es .
+<http://es.dbpedia.org/resource/Arte_Rom%C3%A1nico> <http://lexvo.org/ontology#label> "Arte rom\u00E1nico"@es .
+<http://dbpedia.org/resource/Audio-visual> <http://lexvo.org/ontology#label> "Audiovisuales"@es .
+<http://dbpedia.org/resource/Motoring> <http://lexvo.org/ontology#label> "Automovilismo"@es .
+<http://dbpedia.org/resource/Popular,_Inc.> <http://lexvo.org/ontology#label> "Banco Popular"@es .
+<http://dbpedia.org/resource/Barclays> <http://lexvo.org/ontology#label> "Barclays Bank"@es .
+<http://dbpedia.org/resource/Bel%C3%A9n_Esteban> <http://lexvo.org/ontology#label> "Bel\u00E9n Esteban"@es .
+<http://es.dbpedia.org/resource/Bel%C3%A9n_Esteban> <http://lexvo.org/ontology#label> "Bel\u00E9n Esteban"@es .
+<http://dbpedia.org/resource/Pope_Benedict_XVI> <http://lexvo.org/ontology#label> "Benedicto XVI"@es .
+<http://es.dbpedia.org/resource/Benedicto_XVI> <http://lexvo.org/ontology#label> "Benedicto XVI"@es .
+<http://dbpedia.org/resource/London_Stock_Exchange> <http://lexvo.org/ontology#label> "Bolsa Londres"@es .
+<http://es.dbpedia.org/resource/Bolsa_de_Londres> <http://lexvo.org/ontology#label> "Bolsa Londres"@es .
+<http://dbpedia.org/resource/Carlos_Sastre> <http://lexvo.org/ontology#label> "Carlos Sastre"@es .
+<http://es.dbpedia.org/resource/Caso_Mari_Luz> <http://lexvo.org/ontology#label> "Caso Mari Luz"@es .
+<http://dbpedia.org/resource/Central_America> <http://lexvo.org/ontology#label> "Centroam\u00E9rica"@es .
+<http://es.dbpedia.org/resource/Am%C3%A9rica_Central> <http://lexvo.org/ontology#label> "Centroam\u00E9rica"@es .
+<http://dbpedia.org/resource/Community_health_center> <http://lexvo.org/ontology#label> "Centros salud"@es .
+<http://es.dbpedia.org/resource/Centro_de_salud> <http://lexvo.org/ontology#label> "Centros salud"@es .
+<http://dbpedia.org/resource/Cesc_F%C3%A0bregas> <http://lexvo.org/ontology#label> "Cesc Fabregas"@es .
+<http://dbpedia.org/resource/Collecting> <http://lexvo.org/ontology#label> "Coleccionismo"@es .
+<http://es.dbpedia.org/resource/Coleccionismo> <http://lexvo.org/ontology#label> "Coleccionismo"@es .
+<http://dbpedia.org/resource/Competition> <http://lexvo.org/ontology#label> "Competiciones"@es .
+<http://dbpedia.org/resource/Pollution> <http://lexvo.org/ontology#label> "Contaminaci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Contaminaci%C3%B3n> <http://lexvo.org/ontology#label> "Contaminaci\u00F3n"@es .
+<http://dbpedia.org/resource/Credit_Suisse> <http://lexvo.org/ontology#label> "Credit Suisse"@es .
+<http://dbpedia.org/resource/David_Cameron> <http://lexvo.org/ontology#label> "David Cameron"@es .
+<http://dbpedia.org/resource/Deutsche_Bank> <http://lexvo.org/ontology#label> "Deutsche Bank"@es .
+<http://dbpedia.org/resource/UEFA_Euro_2012> <http://lexvo.org/ontology#label> "Eurocopa 2012"@es .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://lexvo.org/ontology#label> "Frank Sinatra"@es .
+<http://dbpedia.org/resource/Tax_evasion> <http://lexvo.org/ontology#label> "Fraude fiscal"@es .
+<http://dbpedia.org/resource/Goldman_Sachs> <http://lexvo.org/ontology#label> "Goldman Sachs"@es .
+<http://dbpedia.org/resource/Civil_Guard_%28Spain%29> <http://lexvo.org/ontology#label> "Guardia Civil"@es .
+<http://dbpedia.org/resource/Heather_Mills> <http://lexvo.org/ontology#label> "Heather Mills"@es .
+<http://dbpedia.org/resource/Hosni_Mubarak> <http://lexvo.org/ontology#label> "Hosni Mubarak"@es .
+<http://dbpedia.org/resource/Iker_Casillas> <http://lexvo.org/ontology#label> "Iker Casillas"@es .
+<http://dbpedia.org/resource/iOS> <http://lexvo.org/ontology#label> "iOS"@es .
+<http://dbpedia.org/resource/Javier_Bardem> <http://lexvo.org/ontology#label> "Javier Bardem"@es .
+<http://dbpedia.org/resource/John_Travolta> <http://lexvo.org/ontology#label> "John Travolta"@es .
+<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> <http://lexvo.org/ontology#label> "Juan Carlos I"@es .
+<http://dbpedia.org/resource/Karim_Benzema> <http://lexvo.org/ontology#label> "Karim Benzema"@es .
+<http://dbpedia.org/resource/Latin_America> <http://lexvo.org/ontology#label> "Latinoam\u00E9rica"@es .
+<http://dbpedia.org/resource/Maria_Shriver> <http://lexvo.org/ontology#label> "Mar\u00EDa Shriver"@es .
+<http://dbpedia.org/resource/Mariano_Rajoy> <http://lexvo.org/ontology#label> "Mariano Rajoy"@es .
+<http://dbpedia.org/resource/Marine_Le_Pen> <http://lexvo.org/ontology#label> "Marine Le Pen"@es .
+<http://dbpedia.org/resource/Mercedes-Benz> <http://lexvo.org/ontology#label> "Mercedes Benz"@es .
+<http://dbpedia.org/resource/Newt_Gingrich> <http://lexvo.org/ontology#label> "Newt Gingrich"@es .
+<http://dbpedia.org/resource/Roger_Federer> <http://lexvo.org/ontology#label> "Roger Federer"@es .
+<http://dbpedia.org/resource/French_Open> <http://lexvo.org/ontology#label> "Roland Garros"@es .
+<http://dbpedia.org/resource/Public_health> <http://lexvo.org/ontology#label> "Salud p\u00FAblica"@es .
+<http://dbpedia.org/resource/Sienna_Miller> <http://lexvo.org/ontology#label> "Sienna Miller"@es .
+<http://dbpedia.org/resource/Solar_System> <http://lexvo.org/ontology#label> "Sistema solar"@es .
+<http://dbpedia.org/resource/The_West_Wing> <http://lexvo.org/ontology#label> "El ala oeste de la Casa Blanca"@es .
+<http://dbpedia.org/resource/Volkswagen_Group> <http://lexvo.org/ontology#label> "Volkswagen"@es .
+<http://dbpedia.org/resource/Volkswagen_Group> <http://lexvo.org/ontology#label> "Volkswagen Ag"@es .
+<http://dbpedia.org/resource/Vuelta_a_Espa%C3%B1a> <http://lexvo.org/ontology#label> "Vuelta Espa\u00F1a"@es .
+<http://dbpedia.org/resource/Xunta_de_Galicia> <http://lexvo.org/ontology#label> "Xunta Galicia"@es .
+<http://dbpedia.org/resource/Yasser_Arafat> <http://lexvo.org/ontology#label> "Yasir Arafat"@es .
+<http://dbpedia.org/resource/American_Broadcasting_Company> <http://lexvo.org/ontology#label> "ABC"@es .
+<http://dbpedia.org/resource/Abstentionism> <http://lexvo.org/ontology#label> "Abstencionismo"@es .
+<http://dbpedia.org/resource/Large_Hadron_Collider> <http://lexvo.org/ontology#label> "LHC"@es .
+<http://dbpedia.org/resource/LGBT_social_movements> <http://lexvo.org/ontology#label> "Activismo lgtb"@es .
+<http://dbpedia.org/resource/Alan_Greenspan> <http://lexvo.org/ontology#label> "Alan Greenspan"@es .
+<http://dbpedia.org/resource/Alejandro_Agag> <http://lexvo.org/ontology#label> "Alejandro Agag"@es .
+<http://es.dbpedia.org/resource/Alfonso_Alonso> <http://lexvo.org/ontology#label> "Alfonso Alonso"@es .
+<http://es.dbpedia.org/resource/Alfredo_Rela%C3%B1o> <http://lexvo.org/ontology#label> "Alfredo Rela\u00F1o"@es .
+<http://dbpedia.org/resource/%C3%81lvaro_Arbeloa> <http://lexvo.org/ontology#label> "\u00C1lvaro Arbeloa"@es .
+<http://dbpedia.org/resource/%C3%81lvaro_Negredo> <http://lexvo.org/ontology#label> "\u00C1lvaro Negredo"@es .
+<http://dbpedia.org/resource/Andr%C3%A9s_Iniest> <http://lexvo.org/ontology#label> "Andr\u00E9s Iniesta"@es .
+<http://dbpedia.org/resource/Religious_art> <http://lexvo.org/ontology#label> "Arte religioso"@es .
+<http://dbpedia.org/resource/Bashar_al-Assad> <http://lexvo.org/ontology#label> "Bachar el Asad"@es .
+<http://es.dbpedia.org/resource/Bashar_Al-Assad> <http://lexvo.org/ontology#label> "Bachar el Asad"@es .
+<http://dbpedia.org/resource/Bernard_Madoff> <http://lexvo.org/ontology#label> "Bernard Madoff"@es .
+<http://dbpedia.org/resource/Venture_capital> <http://lexvo.org/ontology#label> "Capital Riesgo"@es .
+<http://es.dbpedia.org/resource/Capital_riesgo> <http://lexvo.org/ontology#label> "Capital Riesgo"@es .
+<http://dbpedia.org/resource/CatalunyaCaixa> <http://lexvo.org/ontology#label> "CatalunyaCaixa"@es .
+<http://dbpedia.org/resource/Christian_Dior> <http://lexvo.org/ontology#label> "Christian Dior"@es .
+<http://dbpedia.org/resource/Communication> <http://lexvo.org/ontology#label> "Comunicaciones"@es .
+<http://dbpedia.org/resource/Bullfighting> <http://lexvo.org/ontology#label> "Corridas toros"@es .
+<http://es.dbpedia.org/resource/Corrida_de_toros> <http://lexvo.org/ontology#label> "Corridas toros"@es .
+<http://dbpedia.org/resource/United_States> <http://lexvo.org/ontology#label> "Estados Unidos"@es .
+<http://dbpedia.org/resource/Nuclear_physics> <http://lexvo.org/ontology#label> "F\u00EDsica nuclear"@es .
+<http://es.dbpedia.org/resource/Francisco_Rico> <http://lexvo.org/ontology#label> "Francisco Rico"@es .
+<http://dbpedia.org/resource/Fundaci%C3%B3_Joan_Mir%C3%B3> <http://lexvo.org/ontology#label> "Fundaci\u00F3n Mir\u00F3"@es .
+<http://dbpedia.org/resource/George_Clooney> <http://lexvo.org/ontology#label> "George Clooney"@es .
+<http://dbpedia.org/resource/Geri_Halliwell> <http://lexvo.org/ontology#label> "Geri Halliwell"@es .
+<http://dbpedia.org/resource/Basque_Government> <http://lexvo.org/ontology#label> "Gobierno Vasco"@es .
+<http://dbpedia.org/resource/Homosexuality> <http://lexvo.org/ontology#label> "Homosexualidad"@es .
+<http://dbpedia.org/resource/House_%28TV_series%29> <http://lexvo.org/ontology#label> "House"@es .
+<http://dbpedia.org/resource/Julio_Gonz%C3%A1lez_%28sculptor%29> <http://lexvo.org/ontology#label> "Julio Gonz\u00E1lez"@es .
+<http://dbpedia.org/resource/Julio_Iglesias> <http://lexvo.org/ontology#label> "Julio Iglesias"@es .
+<http://dbpedia.org/resource/Karl_Lagerfeld> <http://lexvo.org/ontology#label> "Karl Lagerfeld"@es .
+<http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge> <http://lexvo.org/ontology#label> "Kate Middleton"@es .
+<http://dbpedia.org/resource/Kseniya_Sobchak> <http://lexvo.org/ontology#label> "Ksenia Sobchak"@es .
+<http://es.dbpedia.org/resource/Lagartija_Nick> <http://lexvo.org/ontology#label> "Lagartija Nick"@es .
+<http://dbpedia.org/resource/Manuel_Santana> <http://lexvo.org/ontology#label> "Manuel Santana"@es .
+<http://dbpedia.org/resource/Michelle_Obama> <http://lexvo.org/ontology#label> "Michelle Obama"@es .
+<http://dbpedia.org/resource/NBC> <http://lexvo.org/ontology#label> "NBC"@es .
+<http://dbpedia.org/resource/Neoliberalism> <http://lexvo.org/ontology#label> "Neoliberalismo"@es .
+<http://dbpedia.org/resource/Novak_Djokovic> <http://lexvo.org/ontology#label> "Novak Djokovic"@es .
+<http://dbpedia.org/resource/Australian_Open> <http://lexvo.org/ontology#label> "Open Australia"@es .
+<http://dbpedia.org/resource/Judiciary> <http://lexvo.org/ontology#label> "Poder judicial"@es .
+<http://dbpedia.org/resource/First_Lady> <http://lexvo.org/ontology#label> "Primeras damas"@es .
+<http://dbpedia.org/resource/Puerta_del_Sol> <http://lexvo.org/ontology#label> "Puerta del Sol"@es .
+<http://dbpedia.org/resource/Rio_de_Janeiro> <http://lexvo.org/ontology#label> "R\u00EDo de Janeiro"@es .
+<http://dbpedia.org/resource/Rupert_Murdoch> <http://lexvo.org/ontology#label> "Rupert Murdoch"@es .
+<http://dbpedia.org/resource/Samuel_S%C3%A1nchez> <http://lexvo.org/ontology#label> "Samuel S\u00E1nchez"@es .
+<http://dbpedia.org/resource/Sylvia_Kristel> <http://lexvo.org/ontology#label> "Silvia Kristel"@es .
+<http://dbpedia.org/resource/Six_Feet_Under> <http://lexvo.org/ontology#label> "A dos metros bajo tierra"@es .
+<http://dbpedia.org/resource/Musical_theatre> <http://lexvo.org/ontology#label> "Teatro musical"@es .
+<http://dbpedia.org/resource/Victoria_Abril> <http://lexvo.org/ontology#label> "Victoria Abril"@es .
+<http://dbpedia.org/resource/Victoria_Beckham> <http://lexvo.org/ontology#label> "Victoria Beckham"@es .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://lexvo.org/ontology#label> "Vlad\u00EDmir Putin"@es .
+<http://dbpedia.org/resource/Warren_Buffett> <http://lexvo.org/ontology#label> "Warren Buffett"@es .
+<http://dbpedia.org/resource/Police_action> <http://lexvo.org/ontology#label> "Acci\u00F3n policial"@es .
+<http://dbpedia.org/resource/Albert_Einstein> <http://lexvo.org/ontology#label> "Albert Einstein"@es .
+<http://dbpedia.org/resource/Antoni_Castells_i_Oliveres> <http://lexvo.org/ontology#label> "Antoni Castells"@es .
+<http://es.dbpedia.org/resource/Antoni_Castells> <http://lexvo.org/ontology#label> "Antoni Castells"@es .
+<http://dbpedia.org/resource/Arganda_del_Rey> <http://lexvo.org/ontology#label> "Arganda del Rey"@es .
+<http://dbpedia.org/resource/Performing_arts> <http://lexvo.org/ontology#label> "Artes esc\u00E9nicas"@es .
+<http://es.dbpedia.org/resource/Artes_esc%C3%A9nicas> <http://lexvo.org/ontology#label> "Artes esc\u00E9nicas"@es .
+<http://dbpedia.org/resource/Plastic_arts> <http://lexvo.org/ontology#label> "Artes pl\u00E1sticas"@es .
+<http://es.dbpedia.org/resource/Artes_pl%C3%A1sticas> <http://lexvo.org/ontology#label> "Artes pl\u00E1sticas"@es .
+<http://dbpedia.org/resource/Baltasar_Garz%C3%B3n> <http://lexvo.org/ontology#label> "Baltasar Garz\u00F3n"@es .
+<http://dbpedia.org/resource/Bank_of_Spain> <http://lexvo.org/ontology#label> "Banco de Espa\u00F1a"@es .
+<http://dbpedia.org/resource/Banca_d%27Italia> <http://lexvo.org/ontology#label> "Banco de Italia"@es .
+<http://dbpedia.org/resource/Bank_of_America> <http://lexvo.org/ontology#label> "Bank of America"@es .
+<http://dbpedia.org/resource/Brigitte_Bardot> <http://lexvo.org/ontology#label> "Brigitte Bardot"@es .
+<http://dbpedia.org/resource/British_Airways> <http://lexvo.org/ontology#label> "British Airways"@es .
+<http://dbpedia.org/resource/Way_of_St._James> <http://lexvo.org/ontology#label> "Camino Santiago"@es .
+<http://dbpedia.org/resource/Carlos_Marchena> <http://lexvo.org/ontology#label> "Carlos Marchena"@es .
+<http://es.dbpedia.org/resource/Censo_electoral> <http://lexvo.org/ontology#label> "Censo electoral"@es .
+<http://dbpedia.org/resource/Quality_control> <http://lexvo.org/ontology#label> "Control calidad"@es .
+<http://es.dbpedia.org/resource/Control_de_calidad> <http://lexvo.org/ontology#label> "Control calidad"@es .
+<http://dbpedia.org/resource/Costa_Concordia> <http://lexvo.org/ontology#label> "Costa Concordia"@es .
+<http://dbpedia.org/resource/Far-right_politics> <http://lexvo.org/ontology#label> "Extrema derecha"@es .
+<http://dbpedia.org/resource/Fernando_Torres> <http://lexvo.org/ontology#label> "Fernando Torres"@es .
+<http://dbpedia.org/resource/Sitges_Film_Festival> <http://lexvo.org/ontology#label> "Festival Sitges"@es .
+<http://dbpedia.org/resource/Film_festival> <http://lexvo.org/ontology#label> "Festivales cine"@es .
+<http://es.dbpedia.org/resource/Festival_de_cine> <http://lexvo.org/ontology#label> "Festivales cine"@es .
+<http://dbpedia.org/resource/Flavio_Briatore> <http://lexvo.org/ontology#label> "Flavio Briatore"@es .
+<http://es.dbpedia.org/resource/Fracaso_escolar> <http://lexvo.org/ontology#label> "Fracaso escolar"@es .
+<http://dbpedia.org/resource/Energy_development> <http://lexvo.org/ontology#label> "Fuentes energ\u00EDa"@es .
+<http://es.dbpedia.org/resource/Fuente_de_energ%C3%ADa> <http://lexvo.org/ontology#label> "Fuentes energ\u00EDa"@es .
+<http://dbpedia.org/resource/Armed_forces> <http://lexvo.org/ontology#label> "Fuerzas armadas"@es .
+<http://es.dbpedia.org/resource/Fuerzas_armadas> <http://lexvo.org/ontology#label> "Fuerzas armadas"@es .
+<http://dbpedia.org/resource/Game_of_Thrones_%28TV_series%29> <http://lexvo.org/ontology#label> "Juego de tronos"@es .
+<http://dbpedia.org/resource/Google_One_Pass> <http://lexvo.org/ontology#label> "Google One Pass"@es .
+<http://dbpedia.org/resource/Social_group> <http://lexvo.org/ontology#label> "Grupos sociales"@es .
+<http://dbpedia.org/resource/Gwyneth_Paltrow> <http://lexvo.org/ontology#label> "Gwyneth Paltrow"@es .
+<http://dbpedia.org/resource/Hillary_Rodham_Clinton> <http://lexvo.org/ontology#label> "Hillary Clinton"@es .
+<http://dbpedia.org/resource/Jackson_Pollock> <http://lexvo.org/ontology#label> "Jackson Pollock"@es .
+<http://dbpedia.org/resource/Andalusian_Autonomous_Government> <http://lexvo.org/ontology#label> "Junta Andaluc\u00EDa"@es .
+<http://dbpedia.org/resource/Kenneth_Branagh> <http://lexvo.org/ontology#label> "Kenneth Branagh"@es .
+<http://dbpedia.org/resource/Kristen_Stewart> <http://lexvo.org/ontology#label> "Kristen Stewart"@es .
+<http://dbpedia.org/resource/Lance_Armstrong> <http://lexvo.org/ontology#label> "Lance Armstrong"@es .
+<http://dbpedia.org/resource/Pound_sterling> <http://lexvo.org/ontology#label> "Libra esterlina"@es .
+<http://dbpedia.org/resource/Macaulay_Culkin> <http://lexvo.org/ontology#label> "Macauley Culkin"@es .
+<http://dbpedia.org/resource/Mario_Balotelli> <http://lexvo.org/ontology#label> "Mario Balotelli"@es .
+<http://dbpedia.org/resource/Matthieu_Ricard> <http://lexvo.org/ontology#label> "Matthieu Ricard"@es .
+<http://dbpedia.org/resource/Michael_Jackson> <http://lexvo.org/ontology#label> "Michael Jackson"@es .
+<http://dbpedia.org/resource/Private_museum> <http://lexvo.org/ontology#label> "Museos privados"@es .
+<http://dbpedia.org/resource/Natalia_Verbeke> <http://lexvo.org/ontology#label> "Natalia Verbeke"@es .
+<http://dbpedia.org/resource/Natalie_Portman> <http://lexvo.org/ontology#label> "Natalie Portman"@es .
+<http://dbpedia.org/resource/Nicolas_Sarkozy> <http://lexvo.org/ontology#label> "Nicolas Sarkozy"@es .
+<http://dbpedia.org/resource/Pamela_Anderson> <http://lexvo.org/ontology#label> "Pamela Anderson"@es .
+<http://dbpedia.org/resource/Pedro_Almod%C3%B3var> <http://lexvo.org/ontology#label> "Pedro Almod\u00F3var"@es .
+<http://dbpedia.org/resource/Sara_Netanyahu> <http://lexvo.org/ontology#label> "Sarah Netanyahu"@es .
+<http://dbpedia.org/resource/Sheldon_Adelson> <http://lexvo.org/ontology#label> "Sheldon Adelson"@es .
+<http://dbpedia.org/resource/Stanley_Fischer> <http://lexvo.org/ontology#label> "Stanley Fischer"@es .
+<http://dbpedia.org/resource/Vitoria-Gasteiz> <http://lexvo.org/ontology#label> "Vitoria"@es .
+<http://dbpedia.org/resource/Yolanda_Barcina> <http://lexvo.org/ontology#label> "Yolanda Barcina"@es .
+<http://dbpedia.org/resource/News_agency> <http://lexvo.org/ontology#label> "Agencia noticias"@es .
+<http://es.dbpedia.org/resource/Agencia_de_informaci%C3%B3n> <http://lexvo.org/ontology#label> "Agencia noticias"@es .
+<http://dbpedia.org/resource/Alberta_Ferretti> <http://lexvo.org/ontology#label> "Alberta Ferretti"@es .
+<http://dbpedia.org/resource/Alberto_Contador> <http://lexvo.org/ontology#label> "Alberto Contador"@es .
+<http://dbpedia.org/resource/Almudena_Grandes> <http://lexvo.org/ontology#label> "Almudena Grandes"@es .
+<http://es.dbpedia.org/resource/Almudena_Grandes> <http://lexvo.org/ontology#label> "Almudena Grandes"@es .
+<http://dbpedia.org/resource/Andrea_Casiraghi> <http://lexvo.org/ontology#label> "Andrea Casiraghi"@es .
+<http://dbpedia.org/resource/Antonio_Banderas> <http://lexvo.org/ontology#label> "Antonio Banderas"@es .
+<http://dbpedia.org/resource/Aung_San_Suu_Kyi> <http://lexvo.org/ontology#label> "Aung San Suu Kyi"@es .
+<http://dbpedia.org/resource/Band_of_Brothers> <http://lexvo.org/ontology#label> "Hermanos de sangre"@es .
+<http://dbpedia.org/resource/Bernard_Kouchner> <http://lexvo.org/ontology#label> "Bernard Kouchner"@es .
+<http://dbpedia.org/resource/Camille_Pissarro> <http://lexvo.org/ontology#label> "Camille Pissarro"@es .
+<http://dbpedia.org/resource/Cultural_capital> <http://lexvo.org/ontology#label> "Capital cultural"@es .
+<http://es.dbpedia.org/resource/Carles_Campuzano> <http://lexvo.org/ontology#label> "Carles Campuzano"@es .
+<http://dbpedia.org/resource/Carolina_Herrera> <http://lexvo.org/ontology#label> "Carolina Herrera"@es .
+<http://es.dbpedia.org/resource/Carolina_Herrera> <http://lexvo.org/ontology#label> "Carolina Herrera"@es .
+<http://es.dbpedia.org/resource/Categor%C3%ADa:Casos_judiciales> <http://lexvo.org/ontology#label> "Casos judiciales"@es .
+<http://dbpedia.org/resource/Cesare_Prandelli> <http://lexvo.org/ontology#label> "Cesare Prandelli"@es .
+<http://dbpedia.org/resource/Exact_science> <http://lexvo.org/ontology#label> "Ciencias exactas"@es .
+<http://dbpedia.org/resource/Codex_Calixtinus> <http://lexvo.org/ontology#label> "C\u00F3dice Calixtino"@es .
+<http://es.dbpedia.org/resource/Codex_Calixtinus> <http://lexvo.org/ontology#label> "C\u00F3dice Calixtino"@es .
+<http://dbpedia.org/resource/European_Commission> <http://lexvo.org/ontology#label> "Comisi\u00F3n Europea"@es .
+<http://es.dbpedia.org/resource/Comisi%C3%B3n_Europea> <http://lexvo.org/ontology#label> "Comisi\u00F3n Europea"@es .
+<http://dbpedia.org/resource/Community_of_Madrid> <http://lexvo.org/ontology#label> "Comunidad de Madrid"@es .
+<http://es.dbpedia.org/resource/Comunidad_de_Madrid> <http://lexvo.org/ontology#label> "Comunidad de Madrid"@es .
+<http://dbpedia.org/resource/The_Troubles> <http://lexvo.org/ontology#label> "Conflicto Ulster"@es .
+<http://es.dbpedia.org/resource/Conflicto_de_Irlanda_del_Norte> <http://lexvo.org/ontology#label> "Conflicto Ulster"@es .
+<http://dbpedia.org/resource/Cortes_de_Pall%C3%A1s> <http://lexvo.org/ontology#label> "Cortes de Pall\u00E1s"@es .
+<http://es.dbpedia.org/resource/Cortes_de_Pall%C3%A1s> <http://lexvo.org/ontology#label> "Cortes de Pall\u00E1s"@es .
+<http://dbpedia.org/resource/Financial_crisis> <http://lexvo.org/ontology#label> "Crisis econ\u00F3mica"@es .
+<http://dbpedia.org/resource/Daniel_Radcliffe> <http://lexvo.org/ontology#label> "Daniel Radcliffe"@es .
+<http://dbpedia.org/resource/Civil_and_political_rights> <http://lexvo.org/ontology#label> "Derechos civiles"@es .
+<http://dbpedia.org/resource/Human_rights> <http://lexvo.org/ontology#label> "Derechos humanos"@es .
+<http://dbpedia.org/resource/FC_Bayern_Munich> <http://lexvo.org/ontology#label> "FC Bayern M\u00FAnich"@es .
+<http://es.dbpedia.org/resource/Fondos_de_inversi%C3%B3n> <http://lexvo.org/ontology#label> "Fondos inversi\u00F3n"@es .
+<http://dbpedia.org/resource/Francisco_Franco> <http://lexvo.org/ontology#label> "Francisco Franco"@es .
+<http://dbpedia.org/resource/Electoral_fraud> <http://lexvo.org/ontology#label> "Fraude electoral"@es .
+<http://dbpedia.org/resource/Gilbert_%26_George> <http://lexvo.org/ontology#label> "Gilbert & George"@es .
+<http://dbpedia.org/resource/Holger_Badstuber> <http://lexvo.org/ontology#label> "Holger Badstuber"@es .
+<http://dbpedia.org/resource/James_Gandolfini> <http://lexvo.org/ontology#label> "James Gandolfini"@es .
+<http://dbpedia.org/resource/Jordi_Alba> <http://lexvo.org/ontology#label> "Jordi Alba"@es .
+<http://dbpedia.org/resource/Juan_Jos%C3%A9_G%C3%BCemes> <http://lexvo.org/ontology#label> "Juan Jos\u00E9 G\u00FCemes"@es .
+<http://dbpedia.org/resource/Olympic_Games> <http://lexvo.org/ontology#label> "Juegos Ol\u00EDmpicos"@es .
+<http://dbpedia.org/resource/Demonstration_%28people%29> <http://lexvo.org/ontology#label> "Marchas protesta"@es .
+<http://dbpedia.org/resource/Marussia_F1> <http://lexvo.org/ontology#label> "Marussia F1 Team"@es .
+<http://dbpedia.org/resource/Novacaixagalicia> <http://lexvo.org/ontology#label> "Novacaixagalicia"@es .
+<http://dbpedia.org/resource/Procedural_law> <http://lexvo.org/ontology#label> "Proceso judicial"@es .
+<http://dbpedia.org/resource/Social_security> <http://lexvo.org/ontology#label> "Seguridad Social"@es .
+<http://dbpedia.org/resource/Social_democracy> <http://lexvo.org/ontology#label> "Socialdemocracia"@es .
+<http://dbpedia.org/resource/Stella_McCartney> <http://lexvo.org/ontology#label> "Stella McCartney"@es .
+<http://dbpedia.org/resource/Cultural_tourism> <http://lexvo.org/ontology#label> "Turismo cultural"@es .
+<http://dbpedia.org/resource/European_Union> <http://lexvo.org/ontology#label> "UE"@es .
+<http://dbpedia.org/resource/Ver%C3%B3nica_Echegui> <http://lexvo.org/ontology#label> "Ver\u00F3nica Echegui"@es .
+<http://dbpedia.org/resource/Vueling_Airlines> <http://lexvo.org/ontology#label> "Vueling Airlines"@es .
+<http://dbpedia.org/resource/Yulia_Tymoshenko> <http://lexvo.org/ontology#label> "Yulia Timoshenko"@es .
+<http://dbpedia.org/resource/Female_genital_mutilation> <http://lexvo.org/ontology#label> "Ablaci\u00F3n cl\u00EDtoris"@es .
+<http://dbpedia.org/resource/Hobby> <http://lexvo.org/ontology#label> "Afici\u00F3n deportiva"@es .
+<http://es.dbpedia.org/resource/Afici%C3%B3n> <http://lexvo.org/ontology#label> "Afici\u00F3n deportiva"@es .
+<http://dbpedia.org/resource/West_Africa> <http://lexvo.org/ontology#label> "\u00C1frica occidental"@es .
+<http://dbpedia.org/resource/Albert_II,_Prince_of_Monaco> <http://lexvo.org/ontology#label> "Alberto de M\u00F3naco"@es .
+<http://dbpedia.org/resource/Alcal%C3%A1_de_Henares> <http://lexvo.org/ontology#label> "Alcal\u00E1 de Henares"@es .
+<http://dbpedia.org/resource/Alexander_McQueen> <http://lexvo.org/ontology#label> "Alexander McQueen"@es .
+<http://dbpedia.org/resource/Ana_Botella> <http://lexvo.org/ontology#label> "Ana Aznar Botella"@es .
+<http://dbpedia.org/resource/Antonio_Di_Natale> <http://lexvo.org/ontology#label> "Antonio Di Natale"@es .
+<http://dbpedia.org/resource/Arnaud_Montebourg> <http://lexvo.org/ontology#label> "Arnaud Montebourg"@es .
+<http://dbpedia.org/resource/Decorative_arts> <http://lexvo.org/ontology#label> "Artes decorativas"@es .
+<http://dbpedia.org/resource/Antonveneta> <http://lexvo.org/ontology#label> "Banca Antonveneta"@es .
+<http://dbpedia.org/resource/Banco_Sabadell> <http://lexvo.org/ontology#label> "Banco Sabadell"@es .
+<http://dbpedia.org/resource/Banco_de_Valencia> <http://lexvo.org/ontology#label> "Banco de Valencia"@es .
+<http://dbpedia.org/resource/Bernie_Ecclestone> <http://lexvo.org/ontology#label> "Bernie Ecclestone"@es .
+<http://es.dbpedia.org/resource/Bernie_Ecclestone> <http://lexvo.org/ontology#label> "Bernie Ecclestone"@es .
+<http://dbpedia.org/resource/CaixaForum_Madrid> <http://lexvo.org/ontology#label> "CaixaForum Madrid"@es .
+<http://es.dbpedia.org/resource/CaixaForum_Madrid> <http://lexvo.org/ontology#label> "CaixaForum Madrid"@es .
+<http://dbpedia.org/resource/Caritas_%28charity%29> <http://lexvo.org/ontology#label> "C\u00E1ritas Diocesana"@es .
+<http://es.dbpedia.org/resource/Caritas> <http://lexvo.org/ontology#label> "C\u00E1ritas Diocesana"@es .
+<http://it.dbpedia.org/resource/Caritas_diocesana> <http://lexvo.org/ontology#label> "C\u00E1ritas Diocesana"@es .
+<http://dbpedia.org/resource/Horse_racing> <http://lexvo.org/ontology#label> "Carreras caballos"@es .
+<http://es.dbpedia.org/resource/Carreras_de_caballos> <http://lexvo.org/ontology#label> "Carreras caballos"@es .
+<http://dbpedia.org/resource/Electric_car> <http://lexvo.org/ontology#label> "Coches el\u00E9ctricos"@es .
+<http://dbpedia.org/resource/Electric_vehicle> <http://lexvo.org/ontology#label> "Coches el\u00E9ctricos"@es .
+<http://es.dbpedia.org/resource/Veh%C3%ADculo_el%C3%A9ctrico> <http://lexvo.org/ontology#label> "Coches el\u00E9ctricos"@es .
+<http://dbpedia.org/resource/Cabinet_%28government%29> <http://lexvo.org/ontology#label> "Consejo de Ministros"@es .
+<http://es.dbpedia.org/resource/Consejo_de_Ministros> <http://lexvo.org/ontology#label> "Consejo de Ministros"@es .
+<http://dbpedia.org/resource/Financial_crisis> <http://lexvo.org/ontology#label> "Crisis financiera"@es .
+<http://es.dbpedia.org/resource/Cuenta_de_resultados> <http://lexvo.org/ontology#label> "Cuenta resultados"@es .
+<http://dbpedia.org/resource/Music_genre> <http://lexvo.org/ontology#label> "Estilos musicales"@es .
+<http://dbpedia.org/resource/Western_Europe> <http://lexvo.org/ontology#label> "Europa occidental"@es .
+<http://dbpedia.org/resource/Fernando_Verdasco> <http://lexvo.org/ontology#label> "Fernando Verdasco"@es .
+<http://es.dbpedia.org/resource/Fernando_Verdasco> <http://lexvo.org/ontology#label> "Fernando Verdasco"@es .
+<http://dbpedia.org/resource/Public_finance> <http://lexvo.org/ontology#label> "Finanzas p\u00FAblicas"@es .
+<http://dbpedia.org/resource/Franco_Modigliani> <http://lexvo.org/ontology#label> "Franco Modigliani"@es .
+<http://es.dbpedia.org/resource/Fuerza_de_seguridad> <http://lexvo.org/ontology#label> "Fuerzas seguridad"@es .
+<http://dbpedia.org/resource/Herman_Van_Rompuy> <http://lexvo.org/ontology#label> "Herman van Rompuy"@es .
+<http://dbpedia.org/resource/Hill_Street_Blues> <http://lexvo.org/ontology#label> "Canci\u00F3n triste de Hill Street"@es .
+<http://dbpedia.org/resource/National_anthem> <http://lexvo.org/ontology#label> "Himnos nacionales"@es .
+<http://dbpedia.org/resource/General_strike> <http://lexvo.org/ontology#label> "Huelgas generales"@es .
+<http://es.dbpedia.org/resource/Juan_Antonio_Reig_Pl%C3%A0> <http://lexvo.org/ontology#label> "Juan Antonio Reig Pla"@es .
+<http://es.dbpedia.org/resource/Juan_Antonio_Reig_Pl%C3%A0> <http://lexvo.org/ontology#label> "Juan Antonio Reig Pl\u00E0"@es .
+<http://dbpedia.org/resource/Katharine_Hepburn> <http://lexvo.org/ontology#label> "Katharine Hepburn"@es .
+<http://dbpedia.org/resource/La_Oreja_de_Van_Gogh> <http://lexvo.org/ontology#label> "La Oreja de Van Gogh"@es .
+<http://dbpedia.org/resource/Leonardo_da_Vinci> <http://lexvo.org/ontology#label> "Leonardo da Vinci"@es .
+<http://dbpedia.org/resource/Leonardo_DiCaprio> <http://lexvo.org/ontology#label> "Leonardo Dicaprio"@es .
+<http://dbpedia.org/resource/Martin_McGuinness> <http://lexvo.org/ontology#label> "Martin McGuinness"@es .
+<http://dbpedia.org/resource/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa> <http://lexvo.org/ontology#label> "Museo Reina Sof\u00EDa"@es .
+<http://dbpedia.org/resource/Social_protection> <http://lexvo.org/ontology#label> "Protecci\u00F3n social"@es .
+<http://dbpedia.org/resource/Cuban_Revolution> <http://lexvo.org/ontology#label> "Revoluci\u00F3n Cubana"@es .
+<http://dbpedia.org/resource/Silvio_Berlusconi> <http://lexvo.org/ontology#label> "Silvio Berlusconi"@es .
+<http://dbpedia.org/resource/Voting_system> <http://lexvo.org/ontology#label> "Sistema electoral"@es .
+<http://dbpedia.org/resource/Stephen_Hawking> <http://lexvo.org/ontology#label> "Stephen W. Hawking"@es .
+<http://dbpedia.org/resource/City_transport> <http://lexvo.org/ontology#label> "Transporte urbano"@es .
+<http://dbpedia.org/resource/Viktor_Yanukovych> <http://lexvo.org/ontology#label> "Victor Yanuk\u00F3vich"@es .
+<http://dbpedia.org/resource/Vivienne_Westwood> <http://lexvo.org/ontology#label> "Vivienne Westwood"@es .
+<http://dbpedia.org/resource/Traffic_collision> <http://lexvo.org/ontology#label> "Accidentes tr\u00E1fico"@es .
+<http://dbpedia.org/resource/Madrid-Barajas_Airport> <http://lexvo.org/ontology#label> "Aeropuerto Barajas"@es .
+<http://es.dbpedia.org/resource/Agencia_Estatal_de_Espa%C3%B1a> <http://lexvo.org/ontology#label> "Agencias Estatales"@es .
+<http://dbpedia.org/resource/Assault> <http://lexvo.org/ontology#label> "Agresiones f\u00EDsicas"@es .
+<http://dbpedia.org/resource/Alicia_Silverstone> <http://lexvo.org/ontology#label> "Alicia Silverstone"@es .
+<http://dbpedia.org/resource/Arianna_Huffington> <http://lexvo.org/ontology#label> "Arianna Huffington"@es .
+<http://dbpedia.org/resource/Contemporary_art> <http://lexvo.org/ontology#label> "Arte contempor\u00E1neo"@es .
+<http://es.dbpedia.org/resource/Arte_contempor%C3%A1neo> <http://lexvo.org/ontology#label> "Arte contempor\u00E1neo"@es .
+<http://dbpedia.org/resource/Santander_Group> <http://lexvo.org/ontology#label> "Banco Santander"@es .
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <http://lexvo.org/ontology#label> "Benjamin Netanyahu"@es .
+<http://dbpedia.org/resource/Bosnia_and_Herzegovina> <http://lexvo.org/ontology#label> "Bosnia Herzegovina"@es .
+<http://dbpedia.org/resource/World_championship> <http://lexvo.org/ontology#label> "Campeonato mundial"@es .
+<http://es.dbpedia.org/resource/Campeonato_mundial> <http://lexvo.org/ontology#label> "Campeonato mundial"@es .
+<http://dbpedia.org/resource/Charlotte_Rampling> <http://lexvo.org/ontology#label> "Charlotte Rampling"@es .
+<http://dbpedia.org/resource/Citizenship_of_the_European_Union> <http://lexvo.org/ontology#label> "Ciudadan\u00EDa europea"@es .
+<http://es.dbpedia.org/resource/Ciudadan%C3%ADa_europea> <http://lexvo.org/ontology#label> "Ciudadan\u00EDa europea"@es .
+<http://dbpedia.org/resource/Congress_of_Deputies_%28Spain%29> <http://lexvo.org/ontology#label> "Congreso Diputados"@es .
+<http://es.dbpedia.org/resource/Congreso_de_los_Diputados_de_Espa%C3%B1a> <http://lexvo.org/ontology#label> "Congreso Diputados"@es .
+<http://dbpedia.org/resource/Social_inequality> <http://lexvo.org/ontology#label> "Desigualdad social"@es .
+<http://dbpedia.org/resource/Enrique_Pe%C3%B1a_Nieto> <http://lexvo.org/ontology#label> "Enrique Pe\u00F1a Nieto"@es .
+<http://es.dbpedia.org/resource/Feria_del_Libro_de_Madrid> <http://lexvo.org/ontology#label> "Feria libro Madrid"@es .
+<http://dbpedia.org/resource/Ford_Motor_Company> <http://lexvo.org/ontology#label> "Ford"@es .
+<http://dbpedia.org/resource/Julio_C%C3%A9sar_Franco> <http://lexvo.org/ontology#label> "Julio C\u00E9sar Franco"@es .
+<http://dbpedia.org/resource/European_literature> <http://lexvo.org/ontology#label> "Literatura europea"@es .
+<http://dbpedia.org/resource/European_Parliament> <http://lexvo.org/ontology#label> "Parlamento europeo"@es .
+<http://dbpedia.org/resource/Political_party> <http://lexvo.org/ontology#label> "Partidos pol\u00EDticos"@es .
+<http://dbpedia.org/resource/People%27s_Party_%28Spain%29> <http://lexvo.org/ontology#label> "PP"@es .
+<http://dbpedia.org/resource/Recession> <http://lexvo.org/ontology#label> "Recesi\u00F3n econ\u00F3mica"@es .
+<http://dbpedia.org/resource/Spain_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n espa\u00F1ola"@es .
+<http://dbpedia.org/resource/Sergio_Pininfarina> <http://lexvo.org/ontology#label> "Sergio Pininfarina"@es .
+<http://dbpedia.org/resource/Toxicity> <http://lexvo.org/ontology#label> "Sustancias t\u00F3xicas"@es .
+<http://dbpedia.org/resource/Telecommunication> <http://lexvo.org/ontology#label> "Telecomunicaciones"@es .
+<http://dbpedia.org/resource/The_Rolling_Stones> <http://lexvo.org/ontology#label> "The Rolling Stones"@es .
+<http://dbpedia.org/resource/Valentino_Garavani> <http://lexvo.org/ontology#label> "Valentino Garavani"@es .
+<http://dbpedia.org/resource/Vicente_del_Bosque> <http://lexvo.org/ontology#label> "Vicente del Bosque"@es .
+<http://dbpedia.org/resource/Sub-Saharan_Africa> <http://lexvo.org/ontology#label> "\u00C1frica subsahariana"@es .
+<http://dbpedia.org/resource/Alberto_Berasategui> <http://lexvo.org/ontology#label> "Alberto Berasategui"@es .
+<http://dbpedia.org/resource/Alexander_Rodchenko> <http://lexvo.org/ontology#label> "Aleksandr Rodchenko"@es .
+<http://dbpedia.org/resource/Alessandro_Diamanti> <http://lexvo.org/ontology#label> "Alessandro Diamanti"@es .
+<http://es.dbpedia.org/resource/Apolog%C3%ADa_del_terrorismo> <http://lexvo.org/ontology#label> "Apolog\u00EDa terrorismo"@es .
+<http://dbpedia.org/resource/Bank_of_England> <http://lexvo.org/ontology#label> "Banco de Inglaterra"@es .
+<http://dbpedia.org/resource/Alcoholic_beverage> <http://lexvo.org/ontology#label> "Bebidas alcoh\u00F3licas"@es .
+<http://es.dbpedia.org/resource/Bebida_alcoh%C3%B3lica> <http://lexvo.org/ontology#label> "Bebidas alcoh\u00F3licas"@es .
+<http://dbpedia.org/resource/Carmen_Mart%C3%ADn_Gaite> <http://lexvo.org/ontology#label> "Carmen Mart\u00EDn Gaite"@es .
+<http://es.dbpedia.org/resource/Carmen_Mart%C3%ADn_Gaite> <http://lexvo.org/ontology#label> "Carmen Mart\u00EDn Gaite"@es .
+<http://dbpedia.org/resource/Vatican_City> <http://lexvo.org/ontology#label> "Ciudad del Vaticano"@es .
+<http://es.dbpedia.org/resource/Comunidad_educativa> <http://lexvo.org/ontology#label> "Comunidad educativa"@es .
+<http://es.dbpedia.org/resource/Concurso_de_Acreedores_%28Espa%C3%B1a%29> <http://lexvo.org/ontology#label> "Concurso acreedores"@es .
+<http://dbpedia.org/resource/Internet_access> <http://lexvo.org/ontology#label> "Conexiones internet"@es .
+<http://es.dbpedia.org/resource/Conexi%C3%B3n_a_Internet> <http://lexvo.org/ontology#label> "Conexiones internet"@es .
+<http://dbpedia.org/resource/Political_corruption> <http://lexvo.org/ontology#label> "Corrupci\u00F3n pol\u00EDtica"@es .
+<http://dbpedia.org/resource/Federico_Balzaretti> <http://lexvo.org/ontology#label> "Federico Balzaretti"@es .
+<http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh> <http://lexvo.org/ontology#label> "Felipe de Edimburgo"@es .
+<http://es.dbpedia.org/resource/Felipe_de_Edimburgo> <http://lexvo.org/ontology#label> "Felipe de Edimburgo"@es .
+<http://es.dbpedia.org/resource/Fernando_P%C3%A9rez_Royo> <http://lexvo.org/ontology#label> "Fernando P\u00E9rez Royo"@es .
+<http://dbpedia.org/resource/Fidelity_Investments> <http://lexvo.org/ontology#label> "Fidelity Investment"@es .
+<http://dbpedia.org/resource/Personal_finance> <http://lexvo.org/ontology#label> "Finanzas personales"@es .
+<http://dbpedia.org/resource/HBO> <http://lexvo.org/ontology#label> "HBO"@es .
+<http://dbpedia.org/resource/Preventive_medicine> <http://lexvo.org/ontology#label> "Medicina preventiva"@es .
+<http://dbpedia.org/resource/Sheldon_Lee_Glashow> <http://lexvo.org/ontology#label> "Sheldon Lee Glashow"@es .
+<http://dbpedia.org/resource/Operating_system> <http://lexvo.org/ontology#label> "Sistemas operativos"@es .
+<http://dbpedia.org/resource/Val%C3%A9rie_Trierweiler> <http://lexvo.org/ontology#label> "Val\u00E9rie Trierweiler"@es .
+<http://dbpedia.org/resource/Nuclear_and_radiation_accidents> <http://lexvo.org/ontology#label> "Accidentes nucleares"@es .
+<http://es.dbpedia.org/resource/Administraci%C3%B3n_local_%28Espa%C3%B1a%29> <http://lexvo.org/ontology#label> "Administraci\u00F3n local"@es .
+<http://dbpedia.org/resource/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o> <http://lexvo.org/ontology#label> "Alberto N\u00FA\u00F1ez Feij\u00F3o"@es .
+<http://dbpedia.org/resource/Anderson_Cooper> <http://lexvo.org/ontology#label> "Anderson Cooper"@es .
+<http://dbpedia.org/resource/Banco_Real> <http://lexvo.org/ontology#label> "Banco Real de Brasil"@es .
+<http://dbpedia.org/resource/Public_library> <http://lexvo.org/ontology#label> "Bibliotecas p\u00FAblicas"@es .
+<http://es.dbpedia.org/resource/Biblioteca_p%C3%BAblica> <http://lexvo.org/ontology#label> "Bibliotecas p\u00FAblicas"@es .
+<http://dbpedia.org/resource/CaixaForum_Barcelona> <http://lexvo.org/ontology#label> "CaixaForum Barcelona"@es .
+<http://es.dbpedia.org/resource/CaixaForum_Barcelona> <http://lexvo.org/ontology#label> "CaixaForum Barcelona"@es .
+<http://dbpedia.org/resource/Political_campaign> <http://lexvo.org/ontology#label> "Campa\u00F1as electorales"@es .
+<http://es.dbpedia.org/resource/Campa%C3%B1a_pol%C3%ADtica> <http://lexvo.org/ontology#label> "Campa\u00F1as electorales"@es .
+<http://dbpedia.org/resource/Fossil_fuel> <http://lexvo.org/ontology#label> "Combustibles f\u00F3siles"@es .
+<http://es.dbpedia.org/resource/Combustible_f%C3%B3sil> <http://lexvo.org/ontology#label> "Combustibles f\u00F3siles"@es .
+<http://dbpedia.org/resource/Electronic_commerce> <http://lexvo.org/ontology#label> "Comercio electr\u00F3nico"@es .
+<http://es.dbpedia.org/resource/Comercio_electr%C3%B3nico> <http://lexvo.org/ontology#label> "Comercio electr\u00F3nico"@es .
+<http://dbpedia.org/resource/Valencian_Community> <http://lexvo.org/ontology#label> "Comunidad Valenciana"@es .
+<http://es.dbpedia.org/resource/Conflictividad_laboral> <http://lexvo.org/ontology#label> "Conflictos laborales"@es .
+<http://dbpedia.org/resource/Disability> <http://lexvo.org/ontology#label> "Dependencia"@es .
+<http://dbpedia.org/resource/Primary_election> <http://lexvo.org/ontology#label> "Elecciones primarias"@es .
+<http://es.dbpedia.org/resource/Falsificaci%C3%B3n_de_moneda> <http://lexvo.org/ontology#label> "Falsificaci\u00F3n moneda"@es .
+<http://dbpedia.org/resource/Fernando_Lugo> <http://lexvo.org/ontology#label> "Fernando Lugo M\u00E9ndez"@es .
+<http://es.dbpedia.org/resource/Fernando_Lugo> <http://lexvo.org/ontology#label> "Fernando Lugo M\u00E9ndez"@es .
+<http://dbpedia.org/resource/Generalitat_of_Catalonia> <http://lexvo.org/ontology#label> "Generalitat Catalu\u00F1a"@es .
+<http://dbpedia.org/resource/Wildfire> <http://lexvo.org/ontology#label> "Incendios forestales"@es .
+<http://dbpedia.org/resource/Alternative_medicine> <http://lexvo.org/ontology#label> "Medicina alternativa"@es .
+<http://dbpedia.org/resource/Financial_market> <http://lexvo.org/ontology#label> "Mercados financieros"@es .
+<http://dbpedia.org/resource/Social_movement> <http://lexvo.org/ontology#label> "Movimientos sociales"@es .
+<http://dbpedia.org/resource/Medical_malpractice> <http://lexvo.org/ontology#label> "Negligencias m\u00E9dicas"@es .
+<http://dbpedia.org/resource/Citizen_journalism> <http://lexvo.org/ontology#label> "Periodismo ciudadano"@es .
+<http://dbpedia.org/resource/Environmental_protection> <http://lexvo.org/ontology#label> "Protecci\u00F3n ambiental"@es .
+<http://dbpedia.org/resource/Raquel_S%C3%A1nchez-Silva> <http://lexvo.org/ontology#label> "Raquel S\u00E1nchez Silva"@es .
+<http://dbpedia.org/resource/Recep_Tayyip_Erdo%C4%9Fan> <http://lexvo.org/ontology#label> "Recep Tayyip Erdogan"@es .
+<http://dbpedia.org/resource/Labor_relations> <http://lexvo.org/ontology#label> "Relaciones laborales"@es .
+<http://dbpedia.org/resource/Sarah_Jessica_Parker> <http://lexvo.org/ontology#label> "Sarah Jessica Parker"@es .
+<http://dbpedia.org/resource/Islamic_terrorism> <http://lexvo.org/ontology#label> "Terrorismo islamista"@es .
+<http://dbpedia.org/resource/Particle_accelerator> <http://lexvo.org/ontology#label> "Acelerador part\u00EDculas"@es .
+<http://es.dbpedia.org/resource/Administraci%C3%B3n_General_del_Estado> <http://lexvo.org/ontology#label> "Administraci\u00F3n Estado"@es .
+<http://dbpedia.org/resource/Arnold_Schwarzenegger> <http://lexvo.org/ontology#label> "Arnold Schwarzenegger"@es .
+<http://dbpedia.org/resource/Artemisia_Gentileschi> <http://lexvo.org/ontology#label> "Artemisia Gentileschi"@es .
+<http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall> <http://lexvo.org/ontology#label> "Camilla Parker Bowles"@es .
+<http://dbpedia.org/resource/Political_coalition> <http://lexvo.org/ontology#label> "Coaliciones pol\u00EDticas"@es .
+<http://dbpedia.org/resource/Autonomous_communities_of_Spain> <http://lexvo.org/ontology#label> "Comunidades aut\u00F3nomas"@es .
+<http://es.dbpedia.org/resource/Comunidad_aut%C3%B3noma> <http://lexvo.org/ontology#label> "Comunidades aut\u00F3nomas"@es .
+<http://dbpedia.org/resource/Episcopal_Conference> <http://lexvo.org/ontology#label> "Conferencia episcopal"@es .
+<http://es.dbpedia.org/resource/Conferencia_episcopal> <http://lexvo.org/ontology#label> "Conferencia episcopal"@es .
+<http://dbpedia.org/resource/Music_school> <http://lexvo.org/ontology#label> "Conservatorios m\u00FAsica"@es .
+<http://es.dbpedia.org/resource/Conservatorio> <http://lexvo.org/ontology#label> "Conservatorios m\u00FAsica"@es .
+<http://dbpedia.org/resource/Spanish_Constitution_of_1978> <http://lexvo.org/ontology#label> "Constituci\u00F3n Espa\u00F1ola"@es .
+<http://es.dbpedia.org/resource/Constituci%C3%B3n_espa%C3%B1ola_de_1978> <http://lexvo.org/ontology#label> "Constituci\u00F3n Espa\u00F1ola"@es .
+<http://dbpedia.org/resource/War_correspondent> <http://lexvo.org/ontology#label> "Corresponsales guerra"@es .
+<http://es.dbpedia.org/resource/Periodismo_de_guerra> <http://lexvo.org/ontology#label> "Corresponsales guerra"@es .
+<http://dbpedia.org/resource/Economic_growth> <http://lexvo.org/ontology#label> "Crecimiento econ\u00F3mico"@es .
+<http://es.dbpedia.org/resource/Crecimiento_econ%C3%B3mico> <http://lexvo.org/ontology#label> "Crecimiento econ\u00F3mico"@es .
+<http://dbpedia.org/resource/Municipal_district> <http://lexvo.org/ontology#label> "Distritos municipales"@es .
+<http://dbpedia.org/resource/Space_station> <http://lexvo.org/ontology#label> "Estaciones espaciales"@es .
+<http://dbpedia.org/resource/Federico_Franco> <http://lexvo.org/ontology#label> "Federico Franco"@es .
+<http://es.dbpedia.org/resource/Federico_Franco> <http://lexvo.org/ontology#label> "Federico Franco"@es .
+<http://dbpedia.org/resource/Illegal_immigration> <http://lexvo.org/ontology#label> "Inmigraci\u00F3n irregular"@es .
+<http://dbpedia.org/resource/2012_Summer_Olympics> <http://lexvo.org/ontology#label> "Juegos Ol\u00EDmpicos 2012"@es .
+<http://dbpedia.org/resource/2016_Summer_Olympics> <http://lexvo.org/ontology#label> "Juegos Ol\u00EDmpicos 2016"@es .
+<http://dbpedia.org/resource/Same-sex_marriage> <http://lexvo.org/ontology#label> "Matrimonio homosexual"@es .
+<http://dbpedia.org/resource/International_relations> <http://lexvo.org/ontology#label> "Relaciones exteriores"@es .
+<http://dbpedia.org/resource/Public_administration> <http://lexvo.org/ontology#label> "Administraci\u00F3n p\u00FAblica"@es .
+<http://dbpedia.org/resource/Alberto_Ruiz-Gallard%C3%B3n> <http://lexvo.org/ontology#label> "Alberto Ruiz-Gallard\u00F3n"@es .
+<http://dbpedia.org/resource/Alicia_S%C3%A1nchez-Camacho> <http://lexvo.org/ontology#label> "Alicia S\u00E1nchez Camacho"@es .
+<http://dbpedia.org/resource/%C3%81ngeles_Gonz%C3%A1lez-Sinde> <http://lexvo.org/ontology#label> "\u00C1ngeles Gonz\u00E1lez Sinde"@es .
+<http://es.dbpedia.org/resource/Antonio_Gonz%C3%A1lez-Vigil> <http://lexvo.org/ontology#label> "Antonio Gonz\u00E1lez Vigil"@es .
+<http://dbpedia.org/resource/Bastian_Schweinsteiger> <http://lexvo.org/ontology#label> "Bastian Schweinsteiger"@es .
+<http://dbpedia.org/resource/National_library> <http://lexvo.org/ontology#label> "Bibliotecas nacionales"@es .
+<http://dbpedia.org/resource/CNN> <http://lexvo.org/ontology#label> "CNN"@es .
+<http://dbpedia.org/resource/International_trade> <http://lexvo.org/ontology#label> "Comercio internacional"@es .
+<http://dbpedia.org/resource/Board_of_directors> <http://lexvo.org/ontology#label> "Consejo administraci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Consejo_de_administraci%C3%B3n> <http://lexvo.org/ontology#label> "Consejo administraci\u00F3n"@es .
+<http://es.dbpedia.org/resource/Corrupci%C3%B3n_urban%C3%ADstica_en_Espa%C3%B1a> <http://lexvo.org/ontology#label> "Corrupci\u00F3n urban\u00EDstica"@es .
+<http://dbpedia.org/resource/Diego_Maradona> <http://lexvo.org/ontology#label> "Maradona"@es .
+<http://dbpedia.org/resource/Francesca_von_Habsburg> <http://lexvo.org/ontology#label> "Francesca de Habsburgo"@es .
+<http://dbpedia.org/resource/Mergers_and_acquisitions> <http://lexvo.org/ontology#label> "Fusiones empresariales"@es .
+<http://es.dbpedia.org/resource/Fusiones_y_adquisiciones> <http://lexvo.org/ontology#label> "Fusiones empresariales"@es .
+<http://dbpedia.org/resource/Generalitat_Valenciana> <http://lexvo.org/ontology#label> "Generalitat Valenciana"@es .
+<http://dbpedia.org/resource/Mar%C3%ADa_de_Villota> <http://lexvo.org/ontology#label> "Mar\u00EDa de Villota"@es .
+<http://dbpedia.org/resource/Missing_person> <http://lexvo.org/ontology#label> "Personas desaparecidas"@es .
+<http://dbpedia.org/resource/The_Royal_Bank_of_Scotland> <http://lexvo.org/ontology#label> "Royal Bank of Scotland"@es .
+<http://dbpedia.org/resource/Santiago_de_Compostela> <http://lexvo.org/ontology#label> "Santiago de Compostela"@es .
+<http://dbpedia.org/resource/World_War_II> <http://lexvo.org/ontology#label> "Segunda Guerra Mundial"@es .
+<http://dbpedia.org/resource/Palestinian_territories> <http://lexvo.org/ontology#label> "Territorios palestinos"@es .
+<http://dbpedia.org/resource/Rail_transport> <http://lexvo.org/ontology#label> "Transporte ferroviario"@es .
+<http://dbpedia.org/resource/UBS> <http://lexvo.org/ontology#label> "Uni\u00F3n de Bancos Suizos"@es .
+<http://dbpedia.org/resource/Alfredo_P%C3%A9rez_Rubalcaba> <http://lexvo.org/ontology#label> "Alfredo P\u00E9rez Rubalcaba"@es .
+<http://dbpedia.org/resource/C%C3%A9cilia_Attias> <http://lexvo.org/ontology#label> "Cecilia Ciganer Alb\u00E9niz"@es .
+<http://dbpedia.org/resource/Convergence_and_Union> <http://lexvo.org/ontology#label> "CiU"@es .
+<http://dbpedia.org/resource/Disabled_sports> <http://lexvo.org/ontology#label> "Deportes discapacitados"@es .
+<http://dbpedia.org/resource/Felipe_Gonz%C3%A1lez> <http://lexvo.org/ontology#label> "Felipe Gonz\u00E1lez M\u00E1rquez"@es .
+<http://es.dbpedia.org/resource/Fernando_de_Rosa> <http://lexvo.org/ontology#label> "Fernando de Rosa Torner"@es .
+<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge> <http://lexvo.org/ontology#label> "Guillermo de Inglaterra"@es .
+<http://dbpedia.org/resource/Las_noticias_del_gui%C3%B1ol> <http://lexvo.org/ontology#label> "Las noticias del gui\u00F1ol"@es .
+<http://dbpedia.org/resource/Museu_Picasso> <http://lexvo.org/ontology#label> "Museo Picasso Barcelona"@es .
+<http://dbpedia.org/resource/Spain_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n F\u00FAtbol Espa\u00F1a"@es .
+<http://dbpedia.org/resource/Italy_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n F\u00FAtbol Italia"@es .
+<http://es.dbpedia.org/resource/Valeriano_G%C3%B3mez> <http://lexvo.org/ontology#label> "Valeriano G\u00F3mez S\u00E1nchez"@es .
+<http://es.dbpedia.org/resource/Colecci%C3%B3n_Carmen_Thyssen-Bornemisza> <http://lexvo.org/ontology#label> "Colecci\u00F3n Carmen Thyssen"@es .
+<http://es.dbpedia.org/resource/Comisi%C3%B3n_de_investigaci%C3%B3n> <http://lexvo.org/ontology#label> "Comisiones investigaci\u00F3n"@es .
+<http://dbpedia.org/resource/Edward_VIII> <http://lexvo.org/ontology#label> "Duque de Windsor Eduardo"@es .
+<http://dbpedia.org/resource/Infanta_Elena,_Duchess_of_Lugo> <http://lexvo.org/ontology#label> "Elena de Borb\u00F3n y Grecia"@es .
+<http://dbpedia.org/resource/Counterfeit> <http://lexvo.org/ontology#label> "Falsificaci\u00F3n documentos"@es .
+<http://es.dbpedia.org/resource/Falsificaci%C3%B3n> <http://lexvo.org/ontology#label> "Falsificaci\u00F3n documentos"@es .
+<http://es.dbpedia.org/resource/Francisco_Rubio_Llorente> <http://lexvo.org/ontology#label> "Francisco Rubio Llorente"@es .
+<http://dbpedia.org/resource/HBOS> <http://lexvo.org/ontology#label> "Halifax Bank of Scotland"@es .
+<http://dbpedia.org/resource/Cultural_institutions> <http://lexvo.org/ontology#label> "Instituciones culturales"@es .
+<http://dbpedia.org/resource/Scientific_method> <http://lexvo.org/ontology#label> "Investigaci\u00F3n cient\u00EDfica"@es .
+<http://dbpedia.org/resource/Thyssen-Bornemisza_Museum> <http://lexvo.org/ontology#label> "Museo Thyssen-Bornemisza"@es .
+<http://dbpedia.org/resource/France_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n F\u00FAtbol Francia"@es .
+<http://dbpedia.org/resource/Terrorism> <http://lexvo.org/ontology#label> "Terrorismo internacional"@es .
+<http://es.dbpedia.org/resource/Administraci%C3%B3n_auton%C3%B3mica> <http://lexvo.org/ontology#label> "Administraci\u00F3n auton\u00F3mica"@es .
+<http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ> <http://lexvo.org/ontology#label> "Banco de Tokio-Mitsubishi"@es .
+<http://dbpedia.org/resource/European_Central_Bank> <http://lexvo.org/ontology#label> "BCE"@es .
+<http://es.dbpedia.org/resource/Banco_Central_Europeo> <http://lexvo.org/ontology#label> "BCE"@es .
+<http://dbpedia.org/resource/Bugatti> <http://lexvo.org/ontology#label> "Bugatti International Spa"@es .
+<http://es.dbpedia.org/resource/Comisi%C3%B3n_parlamentaria> <http://lexvo.org/ontology#label> "Comisiones parlamentarias"@es .
+<http://es.dbpedia.org/resource/Contrato_administrativo_%28Espa%C3%B1a%29> <http://lexvo.org/ontology#label> "Contratos administrativos"@es .
+<http://dbpedia.org/resource/Presidential_election> <http://lexvo.org/ontology#label> "Elecciones presidenciales"@es .
+<http://dbpedia.org/resource/Felipe,_Prince_of_Asturias> <http://lexvo.org/ontology#label> "Felipe de Borb\u00F3n y Grecia"@es .
+<http://es.dbpedia.org/resource/Felipe_de_Borb%C3%B3n_y_Grecia> <http://lexvo.org/ontology#label> "Felipe de Borb\u00F3n y Grecia"@es .
+<http://es.dbpedia.org/resource/Gobierno_de_la_Comunidad_de_Madrid> <http://lexvo.org/ontology#label> "Gobierno Comunidad Madrid"@es .
+<http://dbpedia.org/resource/Jos%C3%A9_Manuel_Barroso> <http://lexvo.org/ontology#label> "Jos\u00E9 Manuel Durao Barroso"@es .
+<http://es.dbpedia.org/resource/Jos%C3%A9_Manuel_G%C3%B3mez_Ben%C3%ADtez> <http://lexvo.org/ontology#label> "Jos\u00E9 Manuel G\u00F3mez Ben\u00EDtez"@es .
+<http://dbpedia.org/resource/Prescription_medication> <http://lexvo.org/ontology#label> "Prescripci\u00F3n medicamentos"@es .
+<http://dbpedia.org/resource/Germany_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n F\u00FAtbol Alemania"@es .
+<http://dbpedia.org/resource/Portugal_national_football_team> <http://lexvo.org/ontology#label> "Selecci\u00F3n F\u00FAtbol Portugal"@es .
+<http://dbpedia.org/resource/Antonio_Mar%C3%ADa_Rouco_Varela> <http://lexvo.org/ontology#label> "Antonio Mar\u00EDa Rouco Varela"@es .
+<http://dbpedia.org/resource/National_Front_%28France%29> <http://lexvo.org/ontology#label> "FN"@es .
+<http://es.dbpedia.org/resource/Frente_Nacional_%28Francia%29> <http://lexvo.org/ontology#label> "FN"@es .
+<http://dbpedia.org/resource/Financial_intermediary> <http://lexvo.org/ontology#label> "Intermediarios financieros"@es .
+<http://dbpedia.org/resource/International_relations> <http://lexvo.org/ontology#label> "Relaciones internacionales"@es .
+<http://dbpedia.org/resource/Andalusian_Health_Service> <http://lexvo.org/ontology#label> "SAS"@es .
+<http://dbpedia.org/resource/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale> <http://lexvo.org/ontology#label> "Societe Generale de Banque"@es .
+<http://dbpedia.org/resource/Soraya_S%C3%A1enz_de_Santamar%C3%ADa> <http://lexvo.org/ontology#label> "Soraya S\u00E1enz de Santamar\u00EDa"@es .
+<http://dbpedia.org/resource/Constitutional_Court_of_Spain> <http://lexvo.org/ontology#label> "Tribunal Constitucional"@es .
+<http://dbpedia.org/resource/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador> <http://lexvo.org/ontology#label> "Andr\u00E9s Manuel L\u00F3pez Obrador"@es .
+<http://dbpedia.org/resource/Cajastur> <http://lexvo.org/ontology#label> "Caja de Ahorros de Asturias"@es .
+<http://dbpedia.org/resource/Christopher_Llewellyn_Smith> <http://lexvo.org/ontology#label> "Christopher Llewellyn-Smith"@es .
+<http://dbpedia.org/resource/Spanish_Olympic_Committee> <http://lexvo.org/ontology#label> "COE"@es .
+<http://es.dbpedia.org/resource/Comit%C3%A9_Ol%C3%ADmpico_Espa%C3%B1ol> <http://lexvo.org/ontology#label> "COE"@es .
+<http://dbpedia.org/resource/Infanta_Cristina,_Duchess_of_Palma_de_Mallorca> <http://lexvo.org/ontology#label> "Cristina de Borb\u00F3n y Grecia"@es .
+<http://dbpedia.org/resource/Rock_in_Rio> <http://lexvo.org/ontology#label> "Rock in Rio"@es .
+<http://dbpedia.org/resource/Credit_rating_agency> <http://lexvo.org/ontology#label> "Agencias calificaci\u00F3n"@es .
+<http://dbpedia.org/resource/Balthus> <http://lexvo.org/ontology#label> "Balthazar Klossowski de Rola"@es .
+<http://dbpedia.org/resource/IAAF_World_Championships_in_Athletics> <http://lexvo.org/ontology#label> "Mundiales Atletismo"@es .
+<http://es.dbpedia.org/resource/Campeonato_Mundial_de_Atletismo> <http://lexvo.org/ontology#label> "Mundiales Atletismo"@es .
+<http://es.dbpedia.org/resource/Huelga_general_en_Espa%C3%B1a_de_2012> <http://lexvo.org/ontology#label> "Huelga 29M"@es .
+<http://dbpedia.org/resource/RTVE> <http://lexvo.org/ontology#label> "RTVE"@es .
+<http://dbpedia.org/resource/Union_of_the_Democratic_Centre_%28Spain%29> <http://lexvo.org/ontology#label> "UCD"@es .
+<http://dbpedia.org/resource/Caja_de_Ahorros_del_Mediterr%C3%A1neo> <http://lexvo.org/ontology#label> "CAM"@es .
+<http://dbpedia.org/resource/Comisi%C3%B3n_Nacional_de_Energ%C3%ADa_%28Spain%29> <http://lexvo.org/ontology#label> "CNE"@es .
+<http://dbpedia.org/resource/Neymar> <http://lexvo.org/ontology#label> "Neymar"@es .
+<http://dbpedia.org/resource/Biblioteca_Nacional_de_Espa%C3%B1a> <http://lexvo.org/ontology#label> "BNE"@es .
+<http://dbpedia.org/resource/Galician_Nationalist_Bloc> <http://lexvo.org/ontology#label> "BNG"@es .
+<http://dbpedia.org/resource/Cristina_Fern%C3%A1ndez_de_Kirchner> <http://lexvo.org/ontology#label> "Cristina Fern\u00E1ndez de Kirchner"@es .
+<http://dbpedia.org/resource/International_organization> <http://lexvo.org/ontology#label> "Organizaciones internacionales"@es .
+<http://dbpedia.org/resource/Uni%C3%B3n_General_de_Trabajadores> <http://lexvo.org/ontology#label> "UGT "@es .
+<http://dbpedia.org/resource/Council_of_the_European_Union> <http://lexvo.org/ontology#label> "Consejo UE"@es .
+<http://es.dbpedia.org/resource/Consejo_de_la_Uni%C3%B3n_Europea> <http://lexvo.org/ontology#label> "Consejo UE"@es .
+<http://dbpedia.org/resource/Baron_Hans_Heinrich_Thyssen-Bornemisza> <http://lexvo.org/ontology#label> "Heinrich von Thyssen-Bornemisza"@es .
+<http://dbpedia.org/resource/Environmental_organization> <http://lexvo.org/ontology#label> "Organizaciones medioambientales"@es .
+<http://dbpedia.org/resource/Comillas_Pontifical_University> <http://lexvo.org/ontology#label> "UP Comillas"@es .
+<http://dbpedia.org/resource/Palestinian_National_Authority> <http://lexvo.org/ontology#label> "Autoridad Palestina"@es .
+<http://es.dbpedia.org/resource/Autoridad_Nacional_Palestina> <http://lexvo.org/ontology#label> "Autoridad Palestina"@es .
+<http://dbpedia.org/resource/Mar%C3%ADa_Dolores_de_Cospedal> <http://lexvo.org/ontology#label> "Mar\u00EDa Dolores de Cospedal Garc\u00EDa"@es .
+<http://dbpedia.org/resource/Comisi%C3%B3n_Nacional_de_la_Competencia> <http://lexvo.org/ontology#label> "CNC"@es .
+<http://es.dbpedia.org/resource/Comisi%C3%B3n_Nacional_de_la_Competencia> <http://lexvo.org/ontology#label> "CNC"@es .
+<http://es.dbpedia.org/resource/Consejer%C3%ADa_%28Espa%C3%B1a%29> <http://lexvo.org/ontology#label> "Consejer\u00EDas"@es .
+<http://dbpedia.org/resource/International_Monetary_Fund> <http://lexvo.org/ontology#label> "FMI"@es .
+<http://es.dbpedia.org/resource/Fondo_Monetario_Internacional> <http://lexvo.org/ontology#label> "FMI"@es .
+<http://dbpedia.org/resource/Pepe_%28footballer_born_1983%29> <http://lexvo.org/ontology#label> "Pepe"@es .
+<http://dbpedia.org/resource/Real_Academia_Espa%C3%B1ola> <http://lexvo.org/ontology#label> "RAE"@es .
+<http://dbpedia.org/resource/Christian_Democratic_Union_%28Germany%29> <http://lexvo.org/ontology#label> "CSU"@es .
+<http://dbpedia.org/resource/Research_and_development> <http://lexvo.org/ontology#label> "i+d+i"@es .
+<http://dbpedia.org/resource/Jaime_de_Marichalar> <http://lexvo.org/ontology#label> "Jaime de Marichalar S\u00E1enz de Tejada"@es .
+<http://dbpedia.org/resource/European_Trade_Union_Confederation> <http://lexvo.org/ontology#label> "CES"@es .
+<http://es.dbpedia.org/resource/Confederaci%C3%B3n_Europea_de_Sindicatos> <http://lexvo.org/ontology#label> "CES"@es .
+<http://dbpedia.org/resource/UNICEF> <http://lexvo.org/ontology#label> "Unicef"@es .
+<http://es.dbpedia.org/resource/Agencia_Espa%C3%B1ola_de_Protecci%C3%B3n_de_Datos> <http://lexvo.org/ontology#label> "AEPD"@es .
+<http://dbpedia.org/resource/Comisi%C3%B3n_Nacional_del_Mercado_de_Valores> <http://lexvo.org/ontology#label> "CNMV"@es .
+<http://es.dbpedia.org/resource/Comisi%C3%B3n_Nacional_del_Mercado_de_Valores> <http://lexvo.org/ontology#label> "CNMV"@es .
+<http://dbpedia.org/resource/Spanish_Socialist_Workers%27_Party> <http://lexvo.org/ontology#label> "PSOE"@es .
+<http://dbpedia.org/resource/Sociedad_General_de_Autores_y_Editores> <http://lexvo.org/ontology#label> "SGAE"@es .
+<http://dbpedia.org/resource/Centro_de_Investigaciones_Sociol%C3%B3gicas> <http://lexvo.org/ontology#label> "CIS"@es .
+<http://es.dbpedia.org/resource/Centro_de_Investigaciones_Sociol%C3%B3gicas> <http://lexvo.org/ontology#label> "CIS"@es .
+<http://dbpedia.org/resource/Felipe_Juan_Froil%C3%A1n_de_Marichalar_y_Borb%C3%B3n> <http://lexvo.org/ontology#label> "Felipe Juan Froil\u00E1n Marichalar y Borb\u00F3n"@es .
+<http://es.dbpedia.org/resource/Felipe_Juan_Froil%C3%A1n_de_Marichalar_y_Borb%C3%B3n> <http://lexvo.org/ontology#label> "Felipe Juan Froil\u00E1n Marichalar y Borb\u00F3n"@es .
+<http://dbpedia.org/resource/High_Court_of_Galicia> <http://lexvo.org/ontology#label> "TSJG"@es .
+<http://dbpedia.org/resource/Christian_Democratic_Union_%28Germany%29> <http://lexvo.org/ontology#label> "CDU"@es .
+<http://es.dbpedia.org/resource/Uni%C3%B3n_Dem%C3%B3crata_Cristiana_%28Alemania%29> <http://lexvo.org/ontology#label> "CDU"@es .
+<http://dbpedia.org/resource/Barcelona_Museum_of_Contemporary_Art> <http://lexvo.org/ontology#label> "Macba"@es .
+<http://dbpedia.org/resource/Liberal_Democratic_Party_of_Germany> <http://lexvo.org/ontology#label> "LDPD"@es .
+<http://dbpedia.org/resource/Hassanal_Bolkiah> <http://lexvo.org/ontology#label> "Haji Hassanal Bolkiah Muizzaddin Waddaulah"@es .
+<http://dbpedia.org/resource/Spanish_Socialist_Workers%27_Party> <http://lexvo.org/ontology#label> "PSPV-PSOE"@es .
+<http://dbpedia.org/resource/Aena> <http://lexvo.org/ontology#label> "AENA"@es .
+<http://dbpedia.org/resource/Fondo_de_Reestructuraci%C3%B3n_Ordenada_Bancaria> <http://lexvo.org/ontology#label> "FROB"@es .
+<http://es.dbpedia.org/resource/Agencia_Tributaria> <http://lexvo.org/ontology#label> "Agencia Tributaria"@es .
+<http://dbpedia.org/resource/Workers'_Commissions> <http://lexvo.org/ontology#label> "CC OO "@es .
+<http://es.dbpedia.org/resource/Comisiones_Obreras> <http://lexvo.org/ontology#label> "CC OO "@es .
+<http://dbpedia.org/resource/CERN> <http://lexvo.org/ontology#label> "CERN"@es .
+<http://dbpedia.org/resource/NASA> <http://lexvo.org/ontology#label> "NASA"@es .
+<http://dbpedia.org/resource/Spanish_National_Research_Council> <http://lexvo.org/ontology#label> "CSIC"@es .
+<http://dbpedia.org/resource/International_Criminal_Tribunal_for_the_former_Yugoslavia> <http://lexvo.org/ontology#label> "TPIY"@es .
+<http://dbpedia.org/resource/United_Nations_Framework_Convention_on_Climate_Change> <http://lexvo.org/ontology#label> "Cmnucc"@es .
+<http://dbpedia.org/resource/UNESCO> <http://lexvo.org/ontology#label> "Unesco"@es .

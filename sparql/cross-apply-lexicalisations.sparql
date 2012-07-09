@@ -1,0 +1,10 @@
+PREFIX foaf:  <http://xmlns.com/foaf/0.1/>
+PREFIX lexvo: <http://lexvo.org/ontology#>
+
+CONSTRUCT { ?page lexvo:label ?term . }
+
+WHERE {
+    ?tag foaf:primaryTopic ?page .
+    ?tag lexvo:label ?term .
+}
+
